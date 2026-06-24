@@ -1,0 +1,988 @@
+ID,airport_name,type,country,lat,long,elevation,service
+AME,Alto Molocue Airport,small_airport,MZ,-15.6102777778,37.6813888889,1950.0,no
+BCW,Benguera Island Airport,medium_airport,MZ,-21.8533,35.438301,,no
+BW-0001,Khuis Airport,small_airport,BW,-26.64913,21.82215,3071.0,no
+BW-0002,Motopi Airport,small_airport,BW,-20.185886,24.175029,3070.0,no
+BW-0004,Linyanti Airport,small_airport,BW,-18.46082,23.808989,3105.0,no
+BW-0013,Ghaghoo Mine Airport,small_airport,BW,-22.6079,24.7897,3350.0,no
+BW-0014,Chandia Airstrip,small_airport,BW,-18.5154,25.495408,3515.0,no
+BW-0015,Kgoro Pan Airport,small_airport,BW,-21.2019,22.5038,3550.0,no
+BW-0016,Khutse Airport,small_airport,BW,-23.35592,24.6036,3315.0,no
+BW-0017,Khwai North Airport,small_airport,BW,-19.041,23.8339,3090.0,no
+BW-0019,Etsha Airport,closed,BW,-19.113219,22.261864,3205.0,no
+BW-0020,Alpha Airfield,closed,BW,-25.198058,25.721603,3798.0,no
+BW-0021,Arizona Airport,small_airport,BW,-22.6036,28.2897,2440.0,no
+BW-0022,Big Game Airport,small_airport,BW,-26.326,22.0946,3180.0,no
+BW-0024,Kwalata Airport,small_airport,BW,-23.062493,27.904797,2595.0,no
+BW-0025,Jwala Airport,small_airport,BW,-22.041793,29.024605,2080.0,no
+BW-0026,Kgwedi Airport,small_airport,BW,-22.07392,29.106636,2005.0,no
+BW-0027,Chief's Island Airport,small_airport,BW,-19.314182,22.94975,,no
+BW-0028,Chief's Camp Airport,small_airport,BW,-19.31107,22.908799,,no
+BW-0029,Mombo Camp Airport,small_airport,BW,-19.209503,22.794411,3165.0,no
+BW-0030,Chitabe Airstrip,small_airport,BW,-19.467144,23.378341,3123.0,no
+BW-0033,Kwara Camp Airport,small_airport,BW,-19.102891,23.289115,,no
+BW-0036,Matsieng Aerodrome,small_airport,BW,-24.357132,26.090237,,no
+BW-0040,Motswiri Airstrip,small_airport,BW,-18.771248,23.041275,3159.0,no
+BW-0041,Mapula Airport,small_airport,BW,-18.787656,22.829697,,no
+BW-0043,Masame Airport,small_airport,BW,-19.329429,24.841567,,no
+BW-0044,Elephant Sands Airport,small_airport,BW,-19.746877,26.070069,,no
+BW-0047,Kanana Farm Airport,small_airport,BW,-21.627363,21.390602,3905.0,no
+BW-0049,Jackalas 1 Airport,closed,BW,-20.55728,27.695399,,no
+BW-0050,Mapoka Airport,closed,BW,-20.532004,27.609445,,no
+BW-0051,Central Kalahari Airport,small_airport,BW,-21.732301,24.482993,,no
+BW-0053,Mmashoro Airport,small_airport,BW,-21.877487,26.350055,,no
+BW-0056,Karowe Airstrip,small_airport,BW,-21.487819,25.466652,3260.0,no
+BW-0057,Banoka Airstrip,small_airport,BW,-19.0925,23.6481,3096.0,no
+BW-0058,Gorokwe Airport,small_airport,BW,-19.58672,23.47126,3120.0,no
+BW-0061,Gaborone Notwane Airport,closed,BW,-24.683001,25.933001,3218.0,no
+BW-0062,Molepolole Airport,closed,BW,-24.389444444,25.498611111,3790.0,no
+BW-0063,Makalamabedi Airport,small_airport,BW,-20.310743,23.907773,3100.0,no
+BW-0067,Lebala Airstrip,small_airport,BW,-18.43366,23.52996,3114.0,no
+BW-0068,Kadizora Airstrip,small_airport,BW,-18.90247,22.59433,3209.0,no
+BW-0069,Mopiri Airstrip,small_airport,BW,-19.09778,22.36718,3203.0,no
+BW-0070,Matsaudi Airstrip,small_airport,BW,-19.86015,23.5993,3104.0,no
+BW-0071,Kiri-Waka Airstrip,small_airport,BW,-19.776683,23.221215,3110.0,no
+BW-0072,Leopard Plains Airstrip,small_airport,BW,-20.18091,24.16769,3068.0,no
+BW-0074,Botswana International University of Science and Technology Drone Port and Heliport,heliport,BW,-22.59488,27.12772,3241.0,no
+BW-HUK,Hukuntsi Airport,small_airport,BW,-23.9897,21.758101,3720.0,no
+BZB,Bazaruto Island Airport,medium_airport,MZ,-21.5411,35.4729,,no
+CMZ,Caia Airport,small_airport,MZ,-17.8331,35.3341,156.0,no
+FAAB,Alexander Bay Airport,medium_airport,ZA,-28.575001,16.5333,98.0,no
+FAAE,Aberdeen Airport,small_airport,ZA,-32.466386,24.064016,2461.0,no
+FAAF,Andrew's Field,small_airport,ZA,-34.763345,20.036357,30.0,no
+FAAG,Aggeneys Airport,medium_airport,ZA,-29.281799,18.8139,2648.0,no
+FAAL,Alldays Airport,small_airport,ZA,-22.679001,29.0555,2600.0,no
+FAAM,Amsterdam Airport,small_airport,ZA,-26.633803,30.605561,4310.0,no
+FAAN,Aliwal North Airport,small_airport,ZA,-30.681072,26.730141,4405.0,no
+FAAS,Ashton Airport,small_airport,ZA,-33.837978,20.049838,525.0,no
+FABA,Microland Flight Park,small_airport,ZA,-25.976256,28.389015,5476.0,no
+FABB,Brakpan Airport,small_airport,ZA,-26.2386,28.3018,5300.0,no
+FABD,Burghersdorp Airport,small_airport,ZA,-30.980916,26.307312,4734.0,no
+FABE,Bisho Airport,medium_airport,ZA,-32.897099,27.2791,1950.0,no
+FABF,Barkly East Airport,small_airport,ZA,-30.97094,27.610113,5940.0,no
+FABG,Buffelshoek Airport,small_airport,ZA,-24.702464,31.587875,1347.0,no
+FABH,Belfast Aerodrome,small_airport,ZA,-25.658742,30.041578,6250.0,no
+FABK,Bushmans Kloof Airport,small_airport,ZA,-32.035,19.0435,1050.0,no
+FABL,Bram Fischer International Airport,large_airport,ZA,-29.092699,26.302401,4457.0,yes
+FABM,Bethlehem Airport,small_airport,ZA,-28.2484,28.3361,5561.0,no
+FABO,Hendrik Potgieter Airport,small_airport,ZA,-27.36680030822754,26.629199981689453,4236.0,no
+FABP,Black Rock Airport,small_airport,ZA,-27.129724,22.846255,3450.0,no
+FABR,Barberton Airport,medium_airport,ZA,-25.717147,30.974974,2250.0,no
+FABS,Brits Airport,small_airport,ZA,-25.532301,27.7759,3756.0,no
+FABT,Bethesda Road Airport,small_airport,ZA,-31.873199462890625,24.796899795532227,4630.0,no
+FABU,Bultfontein Airport,small_airport,ZA,-28.273369,26.135835,4400.0,no
+FABV,Brandviei Airfield,small_airport,ZA,-30.467773,20.469417,2999.0,no
+FABW,Beaufort West Airport,small_airport,ZA,-32.299999,22.67,2941.0,no
+FABX,Beatrix Airport,small_airport,ZA,-28.2450008392334,26.771900177001957,4518.0,no
+FABZ,Bizana Airport,small_airport,ZA,-30.860300064086918,29.86389923095703,2740.0,no
+FACA,Monte Carlo Airport,small_airport,ZA,-28.799999237060547,27.41699981689453,4995.0,no
+FACB,Colesberg Airport,small_airport,ZA,-30.73390007019043,25.065000534057617,4639.0,no
+FACC,Arathusa Safari Lodge Airport,small_airport,ZA,-24.740527,31.517973,1289.0,no
+FACD,Cradock Airport,small_airport,ZA,-32.1567001343,25.6455993652,3110.0,no
+FACE,Ceres Airport,small_airport,ZA,-33.316594,19.426676,1519.0,no
+FACG,Caledon Airfield,small_airport,ZA,-34.259523,19.416214,936.0,no
+FACH,Cookhouse Airport,small_airport,ZA,-32.74470138549805,25.796300888061523,1893.0,no
+FACI,Citrusdal Airport,small_airport,ZA,-32.61968,19.00384,532.0,no
+FACK,Christiana Airport,small_airport,ZA,-27.877192,25.204376,3978.0,no
+FACL,Carolina Airport,small_airport,ZA,-26.078100204467773,30.092500686645508,5420.0,no
+FACN,Carnarvon Airport,small_airport,ZA,-30.9886,22.131701,4160.0,no
+FACR,Carltonville Airport,small_airport,ZA,-26.36666679382324,27.34666633605957,5000.0,no
+FACT,Cape Town International Airport,large_airport,ZA,-33.97403,18.604333,151.0,yes
+FACV,Calvinia Airport,small_airport,ZA,-31.500299,19.725901,3250.0,no
+FACW,Clanwilliam Airport,small_airport,ZA,-32.177,18.8819,416.0,no
+FACX,Cathcart Airport,small_airport,ZA,-32.28710174560547,27.1387996673584,3959.0,no
+FADA,De Aar Airport,small_airport,ZA,-30.69219970703125,24.02059936523437,4154.0,no
+FADB,Dwaalboom Airport,small_airport,ZA,-24.80719947814941,26.829700469970703,3652.0,no
+FADC,Douglas Cape Airport,small_airport,ZA,-29.0746,23.8009,,no
+FADD,Dundee Airport,small_airport,ZA,-28.1830997467041,30.22249984741211,4219.0,no
+FADE,Delmas Airport,small_airport,ZA,-26.14166641235352,28.69166755676269,5075.0,no
+FADG,Dordrecht Airport,small_airport,ZA,-31.38333320617676,27.03333282470703,5200.0,no
+FADH,Durnacol Airport,small_airport,ZA,-28.04610061645508,30.00639915466309,4317.0,no
+FADK,Mubatuba Airport,small_airport,ZA,-28.36840057373047,32.24810028076172,210.0,no
+FADL,Delareyville Airport,small_airport,ZA,-26.67919921875,25.47470092773437,4469.0,no
+FADM,Kokstad Airport,small_airport,ZA,-30.55649948120117,29.40819931030273,4084.0,no
+FADO,Dendron Airport,small_airport,ZA,-23.380599975585938,29.32080078125,3399.0,no
+FADP,Darlington Dam Lodge Airport,small_airport,ZA,-33.18320083618164,25.193199157714844,847.0,no
+FADS,De Doorns Airport,small_airport,ZA,-33.455557,19.684493,1626.0,no
+FADV,Devon Airport,small_airport,ZA,-26.358999252319336,28.78969955444336,5460.0,no
+FADX,Delta 200 Airstrip,small_airport,ZA,-33.6494935368,18.4718799591,220.0,no
+FADY,De Aar Military Airport,small_airport,ZA,-30.636509,23.919725,4037.0,no
+FADZ,Drakensberg Gardens Airport,small_airport,ZA,-29.75,29.25,5948.0,no
+FAEC,Estcourt Airport,small_airport,ZA,-29.047199249267575,29.910600662231445,4262.0,no
+FAED,Edenburg Airport,small_airport,ZA,-29.75,25.899999618530277,4509.0,no
+FAEG,Egnep Airport,small_airport,ZA,-24.566999435424805,30.316999435424805,2299.0,no
+FAEL,King Phalo Airport,large_airport,ZA,-33.035599,27.825899,435.0,yes
+FAEM,Empangeni Airport,small_airport,ZA,-28.71999931335449,31.88999938964844,251.0,no
+FAEN,Entabeni Airstrip,small_airport,ZA,-24.1933,28.735,3890.0,no
+FAEO,Ermelo Airport,medium_airport,ZA,-26.4956,29.979799,5700.0,no
+FAER,Ellisras Matimba Airport,small_airport,ZA,-23.72669982910156,27.68829917907715,2799.0,no
+FAES,Eshowe Airport,small_airport,ZA,-28.880199432373047,31.45490074157715,1601.0,no
+FAET,Elliot Airport,small_airport,ZA,-31.306900024414062,27.84950065612793,5028.0,no
+FAFB,Ficksburg Sentraoes Airport,medium_airport,ZA,-28.82309913635254,27.908899307250977,5315.0,no
+FAFF,Frankfort Airport,small_airport,ZA,-27.286786,28.514585,5176.0,no
+FAFG,Flamingo Vlei Airport,small_airport,ZA,-30.49099922180176,21.121700286865234,3248.0,no
+FAFO,Fort Beaufort Airport,small_airport,ZA,-32.79050064086914,26.577699661254883,1581.0,no
+FAFR,Fraserburg Airport,small_airport,ZA,-31.933900833129883,21.502500534057617,4180.0,no
+FAFU,Fraaiuitzicht Airport,small_airport,ZA,-27.316999435424805,27.25,4841.0,no
+FAFW,Freeway Airport,small_airport,ZA,-25.47719955444336,28.290000915527344,3819.0,no
+FAGC,Grand Central Airport,medium_airport,ZA,-25.986299514799995,28.1401004791,5325.0,no
+FAGG,George Airport,large_airport,ZA,-34.0056,22.378902,648.0,yes
+FAGH,Glen Grey Airport,small_airport,ZA,-28.83333396911621,29.46666717529297,3500.0,no
+FAGI,Giyani Airport,small_airport,ZA,-23.2833,30.65,1584.0,no
+FAGJ,Gifvlei Airport,small_airport,ZA,-30.38330078125,20.033300399780277,3199.0,no
+FAGL,Groblersdal Kob Airport,small_airport,ZA,-25.186899,29.403299,3051.0,no
+FAGO,Gowrie Airport,small_airport,ZA,-24.7371653036,31.5602874756,1200.0,no
+FAGR,Graaff Reinet Airport,small_airport,ZA,-32.1936,24.541401,2604.0,no
+FAGT,Grahamstown Airport,small_airport,ZA,-33.284698,26.4981,2135.0,no
+FAGV,Gravelotte Airport,small_airport,ZA,-23.91127,30.696192,1650.0,no
+FAGW,Magwa Airport,small_airport,ZA,-31.39394187927246,29.693470001220703,1823.0,no
+FAGY,Greytown Airport,small_airport,ZA,-29.122,30.5867,3531.0,no
+FAHA,Harmony Airport,small_airport,ZA,-28.078699,26.8612,4399.0,no
+FAHB,Hartebeespoortdam Airport,small_airport,ZA,-24.50239944458008,28.079099655151367,3740.0,no
+FAHC,Howick Airport,small_airport,ZA,-29.55279922485352,30.21109962463379,3619.0,no
+FAHD,Humansdorp Airport,small_airport,ZA,-34.036598205566406,24.78890037536621,345.0,no
+FAHF,Henrys Flats Airport,small_airport,ZA,-33.04610061645508,25.71689987182617,1709.0,no
+FAHG,Heidelburg Airport,small_airport,ZA,-26.51,28.389999,5089.0,no
+FAHH,Hibberdene Airport,small_airport,ZA,-30.583947,30.558562,89.0,no
+FAHI,Halfweg Airport,small_airport,ZA,-30.0132999420166,20.13920021057129,3159.0,no
+FAHJ,Harding Airport,small_airport,ZA,-30.574533,29.90565,2890.0,no
+FAHK,Haakdoornboom Airport,small_airport,ZA,-25.58720016479492,28.115800857543945,4055.0,no
+FAHL,Hluhluwe Airport,small_airport,ZA,-28.0166049887,32.2751712799,249.0,no
+FAHO,Heilbron Airport,small_airport,ZA,-27.278600692749023,27.9955997467041,5200.0,no
+FAHP,Hoopstad Airport,small_airport,ZA,-27.82169914245605,25.916900634765625,4131.0,no
+FAHR,Harrismith Airport,medium_airport,ZA,-28.2351,29.106199,5585.0,no
+FAHT,Eastgate Airport / Air Force Base Hoedspruit,medium_airport,ZA,-24.361864,31.052921,1801.0,yes
+FAHU,H M S Bastard Memorial Airport,small_airport,ZA,-30.542499542236328,29.499000549316406,4701.0,no
+FAHV,Gariep Dam Airport,small_airport,ZA,-30.562111,25.529343,4176.0,no
+FAIA,Itala Airport,small_airport,ZA,-27.4867000579834,31.17110061645508,2665.0,no
+FAID,Idutywa Airport,small_airport,ZA,-32.099998474121094,28.316699981689453,2530.0,no
+FAIS,Isithebe Airport,small_airport,ZA,-29.10555648803711,31.40749931335449,313.0,no
+FAIV,Ingwavuma Airport,small_airport,ZA,-27.11709976196289,32.00870132446289,2100.0,no
+FAIW,Indwe Airport,small_airport,ZA,-31.483333587646484,27.350000381469727,4167.0,no
+FAJC,Jackalberry Airstrip,small_airport,ZA,-24.508666,31.142142,1850.0,no
+FAJF,Jagersfontain Airport,small_airport,ZA,-29.762500762939453,25.433000564575195,4714.0,no
+FAJP,Joubertina Airport,small_airport,ZA,-33.830747,23.827908,2007.0,no
+FAJV,Jansenville Airport,small_airport,ZA,-32.9390983581543,24.670700073242188,1430.0,no
+FAKB,Kosibaai Airport,small_airport,ZA,-27.018262,32.750399,140.0,no
+FAKE,Keimouth Airport,small_airport,ZA,-32.697337,28.356291,222.0,no
+FAKF,Koffee Bay Airport,small_airport,ZA,-31.957335,29.174543,10.0,no
+FAKG,Komati Power Station Airport,small_airport,ZA,-26.093299865722656,29.45560073852539,5289.0,no
+FAKH,Kenhardt Aerodrome,small_airport,ZA,-29.329436,21.191798,2723.0,no
+FAKI,Kobb Inn Airport,small_airport,ZA,-32.433799,28.683467,147.0,no
+FAKK,Kakamas Airport,small_airport,ZA,-28.808598,20.644936,2322.0,no
+FAKL,Kriel Airport,small_airport,ZA,-26.251100540161133,29.194700241088867,5262.0,no
+FAKM,Kimberley Airport,large_airport,ZA,-28.805401,24.764872,3950.0,yes
+FAKN,Kruger Mpumalanga International Airport,large_airport,ZA,-25.383327,31.105325,2829.0,yes
+FAKO,Komga Airport,small_airport,ZA,-32.59280014038086,27.87579917907715,2178.0,no
+FAKP,Komatipoort Airport,small_airport,ZA,-25.44029998779297,31.93000030517578,541.0,no
+FAKR,Krugersdorp Airport,small_airport,ZA,-26.080826,27.725915,5499.0,no
+FAKS,Kroonstad Airport,small_airport,ZA,-27.660601,27.3158,4700.0,no
+FAKT,Kitty Hawk Airport,small_airport,ZA,-25.8600006104,28.4500007629,4619.0,no
+FAKU,Johan Pienaar Airport,medium_airport,ZA,-27.456596,23.411946,4382.0,no
+FAKV,Koffyfontein Min Airport,small_airport,ZA,-29.43939971923828,24.98859977722168,3996.0,no
+FAKW,Kareedouw Airport,small_airport,ZA,-33.96666717529297,24.299999237060547,1050.0,no
+FAKX,Kenton-on-Sea Airport,small_airport,ZA,-33.670329,26.630593,172.0,no
+FAKZ,Kleinsee Airport,medium_airport,ZA,-29.6884002686,17.093999862700002,270.0,no
+FALA,Lanseria International Airport,large_airport,ZA,-25.938964,27.926642,4517.0,yes
+FALB,Ladybrand Airfield,small_airport,ZA,-29.181101,27.4536,5180.0,no
+FALC,Lime Acres Finsch Mine Airport,medium_airport,ZA,-28.36009979248047,23.43910026550293,4900.0,no
+FALD,Londolozi Airport,small_airport,ZA,-24.7478,31.4743,1300.0,no
+FALE,King Shaka International Airport,large_airport,ZA,-29.6144444444,31.1197222222,295.0,yes
+FALF,Loeriesfontein Airport,small_airport,ZA,-30.906400680541992,19.42530059814453,2997.0,no
+FALH,Lohathla Military Airport,small_airport,ZA,-28.036800384521484,23.09869956970215,4500.0,no
+FALI,Lichtenburg Airport,small_airport,ZA,-26.175699,26.184601,4875.0,no
+FALK,Lusikisiki Airport,closed,ZA,-31.369531,29.590456,1831.0,no
+FALL,Lydenburg Airport,small_airport,ZA,-25.10330009460449,30.41419982910156,4882.0,no
+FALM,Makhado Air Force Base Airport,small_airport,ZA,-23.159901,29.696501,3069.0,no
+FALO,Louis Trichardt Airport,small_airport,ZA,-23.061899185180664,29.86470031738281,3025.0,no
+FALQ,El Mirador Airport,small_airport,ZA,-28.98611068725586,29.47972297668457,3897.0,no
+FALW,Langebaanweg Airport,medium_airport,ZA,-32.9688987732,18.1602993011,108.0,no
+FALY,Ladysmith Airport,medium_airport,ZA,-28.5816993713,29.7497005463,3548.0,no
+FAMA,Matatiele Airport,small_airport,ZA,-30.322200775146484,28.7942008972168,4762.0,no
+FAMB,Middelburg Airport,small_airport,ZA,-25.684799,29.440201,4886.0,no
+FAMC,Middelburg 2 Airport,small_airport,ZA,-31.547199249267575,25.02939987182617,4022.0,no
+FAMD,Malamala Airport,medium_airport,ZA,-24.816866,31.544085,1124.0,no
+FAMF,Malabar Airport,small_airport,ZA,-29.010929,23.849489,3348.0,no
+FAMG,Margate Airport,medium_airport,ZA,-30.8574008942,30.343000412,495.0,yes
+FAMH,Musina(Messina) Airport,small_airport,ZA,-22.355672,29.9862,1904.0,no
+FAMI,Marble Hall Airport,small_airport,ZA,-24.9891,29.2831,2980.0,no
+FAMJ,Majuba Power Station Airport,small_airport,ZA,-27.0793,29.7785,5600.0,no
+FAMK,Mafikeng Airport,closed,ZA,-25.816668,25.616667,4201.0,no
+FAML,Manyani Game Lodge Airport,small_airport,ZA,-25.816699981689453,25.716699600219727,4383.0,no
+FAMM,Mmabatho International Airport,medium_airport,ZA,-25.798400878900004,25.5480003357,4181.0,yes
+FAMN,Malelane Airport,small_airport,ZA,-25.473581,31.565947,1153.0,no
+FAMO,Mossel Bay Airport,small_airport,ZA,-34.158746,22.055676,531.0,no
+FAMP,Madimbo Airport,small_airport,ZA,-22.37470054626465,30.88159942626953,2116.0,no
+FAMQ,Maclear Airport,small_airport,ZA,-31.072201,28.376141,4106.0,no
+FAMS,Morningside Farm Airport,medium_airport,ZA,-25.7045001984,26.9090003967,4251.0,no
+FAMT,Molteno Airport,small_airport,ZA,-31.38960075378418,26.3484001159668,5254.0,no
+FAMU,Mkuze Airport,medium_airport,ZA,-27.626101,32.0443,400.0,yes
+FAMX,Mbazwana Airport,small_airport,ZA,-27.48139953613281,32.59389877319336,195.0,no
+FAMY,Malmesbury Airport,small_airport,ZA,-33.486132,18.710311,971.0,no
+FAMZ,Msauli Airport,small_airport,ZA,-26.049999237060547,31.017000198364254,2548.0,no
+FANX,Diepkloof Airfield,small_airport,ZA,-33.34752,18.69684,689.0,no
+FAOF,Jack Duvenhage Airport,small_airport,ZA,-27.961700439453125,22.71660041809082,4216.0,no
+FAPE,Chief Dawid Stuurman International Airport,large_airport,ZA,-33.989715,25.617353,226.0,yes
+FAPH,Hendrik Van Eck Airport,medium_airport,ZA,-23.9372005463,31.1553993225,1432.0,yes
+FASX,Hendrik Swellengrebel Airport,small_airport,ZA,-34.048199,20.4746,407.0,no
+FAUT,K. D. Matanzima Airport,medium_airport,ZA,-31.5463631849,28.6733551025,2400.0,yes
+FAWN,Cape Winelands Airport,small_airport,ZA,-33.77,18.74,399.0,no
+FAZP,Mazeppa Bay Airport,small_airport,ZA,-32.472152,28.65052,13.0,no
+FBAB,Abu Airport,small_airport,BW,-19.4159,22.5526,3170.0,no
+FBBP,Bottle Pan Airport,small_airport,BW,-18.7704,25.2458,3395.0,no
+FBBS,Bokspits Airport,small_airport,BW,-26.8881,20.6921,2815.0,no
+FBCH,Chobe Airport,small_airport,BW,-18.534381,23.660149,3113.0,no
+FBCM,Cement Airport,small_airport,BW,-19.541,22.591,3155.0,no
+FBCO,Camp Okavango Airport,small_airport,BW,-19.131115,23.102505,3158.0,no
+FBDT,Delta Camp Airport,small_airport,BW,-19.533698,23.093792,3140.0,no
+FBDV,Deception Valley Airport,small_airport,BW,-20.9866,23.6576,3185.0,no
+FBGD,Gundingwa Airport,small_airport,BW,-18.61649,22.915932,3165.0,no
+FBGH,Goodhope Airport,small_airport,BW,-25.4329,25.4092,4250.0,no
+FBGM,Gumare Airport,small_airport,BW,-19.338,22.1544,3177.0,no
+FBGP,Gope Airport,small_airport,BW,-22.6523,24.7536,3340.0,no
+FBGS,Grassland Airport,small_airport,BW,-21.7255,22.362657,3495.0,no
+FBGU,Guma Airport,small_airport,BW,-18.953997,22.367073,3220.0,no
+FBGW,Gweta Airport,small_airport,BW,-20.1987,25.2187,3050.0,no
+FBGY,Grundy's Airport,small_airport,BW,-21.40437,27.694864,3055.0,no
+FBGZ,Ghanzi Airport,small_airport,BW,-21.692499,21.6581,3730.0,no
+FBHU,Hunda Airport,small_airport,BW,-19.2765,22.475646,3195.0,no
+FBHV,Haina Ventures Airport,small_airport,BW,-20.9524,23.669184,3185.0,no
+FBJA,Jao Airport,small_airport,BW,-19.3163,22.5951,3175.0,no
+FBJW,Jwaneng Airport,medium_airport,BW,-24.602301,24.691,3900.0,no
+FBKA,Kaa Airport,small_airport,BW,-24.330635,20.635671,3645.0,no
+FBKD,Kwando Lagoon Airport,small_airport,BW,-18.209087,23.387197,3150.0,no
+FBKE,Kasane International Airport,large_airport,BW,-17.831653,25.166195,3289.0,yes
+FBKG,Kang Airport,small_airport,BW,-23.677969,22.817767,3520.0,no
+FBKI,Kiri Airport,small_airport,BW,-19.61594,23.04234,3135.0,no
+FBKK,Kanana Airport,small_airport,BW,-19.5688,22.875575,3140.0,no
+FBKP,Kings Pool Airport,small_airport,BW,-18.441959,23.688716,3100.0,no
+FBKR,Khwai River Lodge Airport,small_airport,BW,-19.149477,23.787937,3000.0,no
+FBKW,Kwando Lebala Airport,small_airport,BW,-18.36099,23.53049,3125.0,no
+FBKY,Kanye Airport,small_airport,BW,-25.049999,25.3167,4199.0,no
+FBLL,Limpopo-Lipadi Airport,small_airport,BW,-22.55153,28.492105,2460.0,no
+FBLO,Lobatse Airport,closed,BW,-25.1981,25.7139,3823.0,no
+FBMG,Machaneng Airport,small_airport,BW,-23.18455,27.501029,2900.0,no
+FBMN,Maun International Airport,large_airport,BW,-19.970491,23.431409,3093.0,yes
+FBMU,Mamuno Airport,small_airport,BW,-22.268095,20.031092,4155.0,no
+FBNW,Moremi Crossing Airstrip,small_airport,BW,-19.52899,23.139408,3140.0,no
+FLAA,Kawa Airport,small_airport,ZM,-13.704573,29.510608,4364.0,no
+FLAB,Kakumbi Airstrip,small_airport,ZM,-13.067913,31.763252,1738.0,no
+FLAI,Amelia Airport,small_airport,ZM,-13.755705,29.338077,4206.0,no
+FLAT,Katete Airport,small_airport,ZM,-14.118694,32.060995,3520.0,no
+FLBA,Mbala Airport,small_airport,ZM,-8.85917,31.336399,5454.0,no
+FLCC,Chocha Airport,small_airport,ZM,-8.43184,29.805057,3270.0,no
+FLCF,Chifunda Airstrip,small_airport,ZM,-11.884965,32.568551,2078.0,no
+FLCG,Chilongolo Airport,small_airport,ZM,-15.496356,28.172259,4055.0,no
+FLCP,Chipata Airport,small_airport,ZM,-13.5583,32.5872,3360.0,no
+FLCS,Chinsali Airport,small_airport,ZM,-10.582491,32.079678,4350.0,no
+FLCU,Chunga Airstrip,small_airport,ZM,-15.053957,25.985673,3632.0,no
+FLEA,East One Airport,small_airport,ZM,-11.635700225830078,29.73590087890625,3900.0,no
+FLEB,East Two Airport,small_airport,ZM,-11.108281,30.359645,3900.0,no
+FLEC,East Three Airport,small_airport,ZM,-14.116653,30.129175,2300.0,no
+FLED,East Four Airport,small_airport,ZM,-14.833000183105469,30.08300018310547,1880.0,no
+FLEE,East Five Airport,closed,ZM,-10.539075,33.406194,4200.0,no
+FLEF,East Six Airport,small_airport,ZM,-11.135792,30.015396,3800.0,no
+FLEG,East Seven Airport,small_airport,ZM,-12.41734,29.483342,4000.0,no
+FLEH,East Eight Airport,small_airport,ZM,-12.150273,29.437594,4000.0,no
+FLFW,Fiwila Airport,small_airport,ZM,-13.975102,29.6259,3983.0,no
+FLGE,Mukinge Mission Airstrip,small_airport,ZM,-13.473517,25.857827,4045.0,no
+FLIK,Isoka Airport,small_airport,ZM,-10.161962,32.65975,4462.0,no
+FLJK,Jeki Airport,small_airport,ZM,-15.6334,29.6036,1165.0,no
+FLKB,Kawambwa Airport,small_airport,ZM,-9.798060417175291,29.091699600219727,4640.0,no
+FLKE,Kasompe Airport,medium_airport,ZM,-12.5728,27.8939,4636.0,no
+FLKG,Kalengwa Airport,small_airport,ZM,-13.47410011291504,25.01409912109375,4093.0,no
+FLKJ,Kanja Airport,closed,ZM,-16.450001,23.367001,3370.0,no
+FLKL,Kalabo Airport,small_airport,ZM,-14.998818,22.648372,3450.0,no
+FLKO,Kaoma Airport,small_airport,ZM,-14.8,24.783001,3670.0,no
+FLKS,Kasama Airport,small_airport,ZM,-10.210169,31.123045,4541.0,yes
+FLKU,Kanyau Airport,small_airport,ZM,-16.5,22.41699981689453,3448.0,no
+FLKW,Milliken Airport,small_airport,ZM,-14.4506,28.3792,3920.0,no
+FLKY,Kasaba Bay Airport,small_airport,ZM,-8.525,30.663,2780.0,no
+FLKZ,Lukuzi Airport,small_airport,ZM,-12.847881,32.035818,1801.0,no
+FLLA,Luanshya Zambia Airport,small_airport,ZM,-13.143052,28.426517,4101.0,no
+FLLC,Lusaka City Airport,medium_airport,ZM,-15.4138,28.3307,4200.0,no
+FLLD,Lundazi Airport,small_airport,ZM,-12.28600025177002,33.18600082397461,3750.0,no
+FLLG,Luwingu Airport,small_airport,ZM,-10.24530029296875,29.91399955749512,4650.0,no
+FLLI,Harry Mwanga Nkumbula International Airport,large_airport,ZM,-17.821524,25.819642,3302.0,yes
+FLLK,Lukulu Airport,small_airport,ZM,-14.375891,23.248648,3480.0,no
+FLLO,Kalomo Airport,small_airport,ZM,-16.982999801635742,26.482999801635746,4100.0,no
+FLLS,Kenneth Kaunda International Airport,large_airport,ZM,-15.330833,28.452722,3779.0,yes
+FLMA,Mansa Airport,small_airport,ZM,-11.137,28.872601,4101.0,no
+FLMB,Maamba Airport,small_airport,ZM,-17.367401,27.185162,2050.0,no
+FLMF,Mfuwe International Airport,large_airport,ZM,-13.2589,31.9366,1853.0,yes
+FLMG,Mongu Airport,medium_airport,ZM,-15.2545,23.1623,3488.0,no
+FLMK,Mkushi Airport,small_airport,ZM,-13.621716,29.38492,4195.0,no
+FLML,Mufulira Airport,small_airport,ZM,-12.565199851989746,28.294300079345703,4350.0,no
+FLMO,Monze Airport,small_airport,ZM,-16.288073,27.505367,3700.0,no
+FLMP,Mpika Airport,small_airport,ZM,-11.899366,31.434681,4600.0,no
+FLMU,Mulobezi Airport,small_airport,ZM,-16.776633,25.185803,3175.0,no
+FLMW,Mwinilunga Airport,small_airport,ZM,-11.654000282287598,24.43099975585937,4524.0,no
+FLMZ,Mazabuka Airport,small_airport,ZM,-15.861332,27.828324,3450.0,no
+FLPA,Kasempa Airport,small_airport,ZM,-13.4399995803833,25.785999298095703,4150.0,no
+FLPK,Mporokoso Airport,small_airport,ZM,-9.3697,30.128,4787.0,no
+FLPO,Kabompo Airport,small_airport,ZM,-13.576000213623049,24.229999542236328,3535.0,no
+FQAG,Angoche Airport,small_airport,MZ,-16.18187,39.945217,121.0,no
+FQBI,Bilene Airport,small_airport,MZ,-25.265985,33.238598,118.0,no
+FQBR,Beira International Airport,large_airport,MZ,-19.7964,34.9076,33.0,yes
+FQCB,Cuamba Airport,small_airport,MZ,-14.815,36.529999,1919.0,no
+FQCH,Chimoio Airport,medium_airport,MZ,-19.15130043029785,33.42900085449219,2287.0,yes
+FQFU,Furancungo Airport,small_airport,MZ,-14.91860008239746,33.628299713134766,,no
+FQIA,Inhaca Airport,small_airport,MZ,-25.9971446991,32.9293518066,10.0,no
+FQIB,Ibo Airport,small_airport,MZ,-12.350174,40.602297,27.0,no
+FQIN,Inhambane Airport,medium_airport,MZ,-23.8764,35.408501,30.0,yes
+FQLC,Lichinga Airport,medium_airport,MZ,-13.274,35.2663,4505.0,yes
+FQLU,Lumbo Airport,small_airport,MZ,-15.0331,40.6717,33.0,no
+FQMA,Maputo Airport,large_airport,MZ,-25.920799,32.572601,145.0,yes
+FQMD,Mueda Airport,medium_airport,MZ,-11.6729,39.563099,2789.0,no
+FQMP,Mocímboa da Praia Airport,medium_airport,MZ,-11.3618,40.3549,89.0,no
+FQMR,Marrupa Airport,small_airport,MZ,-13.2251,37.552101,2480.0,no
+FV76,Kwekwe East Airport,small_airport,ZW,-19.010799,30.0252,4025.0,no
+FV77,Mhangura Airport,small_airport,ZW,-16.910101,30.2423,4078.0,no
+FVAB,Aberdeen Airport,small_airport,ZW,-18.195092,32.675326,4495.0,no
+FVAE,Braebourne Airport,small_airport,ZW,-16.66699981689453,31.232999801635746,3600.0,no
+FVBB,Beitbridge Airport,small_airport,ZW,-22.197617,30.012774,1509.0,no
+FVBI,Binga Airport,small_airport,ZW,-17.647513,27.316859,1950.0,no
+FVBL,Mabalauta Airport,small_airport,ZW,-21.91699981689453,31.46699905395508,950.0,no
+FVBM,Bumi Hills Airport,small_airport,ZW,-16.816485,28.344786,1650.0,no
+FVBO,Bosbury Airport,small_airport,ZW,-18.21699905395508,30.132999420166016,3940.0,no
+FVBU,Joshua Mqabuko Nkomo International Airport,large_airport,ZW,-20.016284,28.622897,4359.0,yes
+FVCC,C.C. Strip,small_airport,ZW,-17.433000564575195,30.299999237060547,4050.0,no
+FVCD,Chirundu Airport,small_airport,ZW,-15.998082,28.899056,1310.0,no
+FVCE,Celina Airport,small_airport,ZW,-17.517000198364258,30.850000381469727,4058.0,no
+FVCH,Chipinge Airport,small_airport,ZW,-20.206699,32.6283,3720.0,no
+FVCM,Cam+Motor Airport,small_airport,ZW,-18.299999,29.979444,3720.0,no
+FVCN,Centenary Airport,small_airport,ZW,-16.7341,31.122,4058.0,no
+FVCP,Charles Prince Airport,small_airport,ZW,-17.7516,30.9247,4845.0,no
+FVCR,Chizarira Airport,small_airport,ZW,-17.683000564575195,27.899999618530277,3280.0,no
+FVCV,Chivu Airport,small_airport,ZW,-19.03300094604492,30.899999618530277,4790.0,no
+FVCZ,Buffalo Range Airport,medium_airport,ZW,-21.008101,31.5786,1421.0,no
+FVDA,Dawsons Airport,small_airport,ZW,-17.0049,30.8961,4762.0,no
+FVDE,Deka Airport,small_airport,ZW,-18.093208,26.714038,1750.0,no
+FVDU,Dudley Airport,small_airport,ZW,-18.28300094604492,31.482999801635746,4986.0,no
+FVED,Eduan Airport,small_airport,ZW,-18.767000198364254,29.78300094604492,3900.0,no
+FVFG,Fothergill Airport,small_airport,ZW,-16.704523,28.660112,1630.0,no
+FVFI,Filabusi Airport,small_airport,ZW,-20.535814,29.256185,3525.0,no
+FVGB,Gombera Airport,small_airport,ZW,-16.958341,30.358828,3294.0,no
+FVGD,Gwanda Airport,small_airport,ZW,-20.899999618530277,29.0,3328.0,no
+FVGG,Gachegache Airport,small_airport,ZW,-16.748077,28.930312,1665.0,no
+FVGO,Gokwe Airport,small_airport,ZW,-18.238705,28.96625,4199.0,no
+FVGR,Grand Reef Airport,small_airport,ZW,-18.9775,32.450802,3333.0,no
+FVGT,Gaths Mine Airport,small_airport,ZW,-19.982999801635746,30.5,3454.0,no
+FVGW,Gweru Airport,small_airport,ZW,-19.549362,29.735388,4660.0,no
+FVHP,Home Park Airport,small_airport,ZW,-18.200000762939453,31.732999801635746,5150.0,no
+FVHY,Hippo Valley Airport,small_airport,ZW,-21.049999237060547,31.66699981689453,1420.0,no
+FVIP,Impinge Airport,small_airport,ZW,-16.9071,30.8003,4800.0,no
+FVIT,Itafa Airport,small_airport,ZW,-18.299999237060547,29.882999420166016,3800.0,no
+FVKB,Kariba Airport,medium_airport,ZW,-16.5198,28.885,1706.0,yes
+FVKK,Kwekwe Aerodrome,small_airport,ZW,-18.932806,29.841432,4000.0,no
+FVKW,Mkwasine Airport,small_airport,ZW,-20.799999237060547,31.816999435424805,1620.0,no
+FVKZ,Kezi Airport,small_airport,ZW,-20.91699981689453,28.482999801635746,3300.0,no
+FVLA,Langford Airport,small_airport,ZW,-17.933000564575195,30.950000762939453,4600.0,no
+FVLG,Longuiel Airport,small_airport,ZW,-17.0,29.632999420166016,4200.0,no
+FVLK,Airport of Linkwasha,small_airport,ZW,-19.1233,27.2014,3200.0,no
+FVLS,Lonestar Airfield,small_airport,ZW,-21.061103,31.889759,1303.0,no
+FVLU,Lusulu Airport,small_airport,ZW,-18.08300018310547,27.867000579833984,3240.0,no
+FVMA,Marondera Airport,small_airport,ZW,-18.183001,31.466999,5370.0,no
+FVMB,Mashumbi Airport,small_airport,ZW,-16.16699981689453,30.566999435424805,1240.0,no
+FVMC,Hwange Main Camp Airfield,small_airport,ZW,-18.724765,26.956472,3485.0,no
+FVMD,Mount Darwin Airport,small_airport,ZW,-16.769199,31.559799,3240.0,no
+FVMF,Mabikwa Airport,small_airport,ZW,-18.744805,27.54682,3450.0,no
+FVMH,Mahenye Airport,small_airport,ZW,-21.231,32.3336,930.0,no
+FVMI,Mubayira Airport,small_airport,ZW,-18.316966,30.586681,4102.0,no
+FVMK,Mkonono Airport,small_airport,ZW,-17.716999053955078,30.41699981689453,4650.0,no
+FVML,Mlibizi Airstrip,small_airport,ZW,-17.9604,27.1184,1980.0,no
+FVMN,Mana Pools Airport,small_airport,ZW,-15.768735,29.385617,1300.0,no
+FVMS,Middle Sabi Airport,small_airport,ZW,-20.21699905395508,32.367000579833984,1510.0,no
+FVMT,Mutoko Airport,medium_airport,ZW,-17.4319,32.184502,3950.0,no
+FVMU,Mutare Airport,small_airport,ZW,-18.997499465942,32.627201080322,3410.0,no
+FVMV,Masvingo International Airport,medium_airport,ZW,-20.0553,30.8591,3595.0,no
+FVMW,Murewa Airport,small_airport,ZW,-17.649999618530273,31.799999237060547,4579.0,no
+FVOT,Kotwa Airport,small_airport,ZW,-16.9848,32.672699,2450.0,no
+FVRB,Barberton Lodge Airfield,small_airport,ZW,-21.12863,29.871943,2650.0,no
+FVRI,Kipling's Rukari Airstrip,small_airport,ZW,-16.855422,28.427034,1660.0,no
+FVTL,Josiah Tungamirai Air Force Base,medium_airport,ZW,-19.436718,29.861945,4680.0,no
+FVWN,Hwange National Park Airport,medium_airport,ZW,-18.6299,27.021,3543.0,no
+FVWT,Hwange (Town) Airport,small_airport,ZW,-18.362967,26.519791,2500.0,no
+FVYT,Inyati Airport,small_airport,ZW,-19.700000762939453,28.850000381469727,4400.0,no
+FWBG,Bangula Airport,small_airport,MW,-16.578408,35.116148,302.0,no
+FWCB,Chilumba Private Airport,small_airport,MW,-10.439073,34.246055,1611.0,no
+FWCD,Chelinda Airfield,small_airport,MW,-10.557293,33.797109,7759.0,no
+FWCL,Chileka International Airport,large_airport,MW,-15.677189,34.972319,2555.0,yes
+FWCM,Club Makokola Airport,small_airport,MW,-14.306483,35.131477,1587.0,no
+FWCT,Chitipa Airport,small_airport,MW,-9.7,33.266998,4270.0,no
+FWDW,Dwangwa Airport,medium_airport,MW,-12.517527,34.131877,1605.0,no
+FWKA,Karonga Airport,medium_airport,MW,-9.953571,33.893264,1765.0,no
+FWKG,Kasungu Airport,small_airport,MW,-13.0146,33.468601,3470.0,no
+FWKI,Kamuzu International Airport,large_airport,MW,-13.7894,33.780998,4035.0,yes
+FWLK,Likoma Island Airport,small_airport,MW,-12.079787,34.736253,1600.0,no
+FWLP,Lifupa Airport,small_airport,MW,-13.05,33.150002,3326.0,no
+FWMC,Mchinji Airport,small_airport,MW,-13.806967,32.894753,3901.0,no
+FWMY,Monkey Bay Airport,small_airport,MW,-14.0836000443,34.9197006226,1580.0,no
+FWMZ,Mzimba Airport,small_airport,MW,-11.883000373840332,33.617000579833984,4440.0,no
+FWTK,Mtakatata Airport,small_airport,MW,-14.217000007629396,34.53300094604492,1725.0,no
+FWUU,Mzuzu Airport,medium_airport,MW,-11.4447,34.011799,4115.0,no
+FYAA,Ai-Ais Airport,small_airport,NA,-27.995,17.5966,2000.0,no
+FYAB,Aroab B Airport,small_airport,NA,-26.7761,19.633101,3235.0,no
+FYAD,Aandster Airstrip,small_airport,NA,-25.355245,16.105086,3312.0,no
+FYAI,Ameib Ranch Airstrip,small_airport,NA,-21.818012,15.620645,,no
+FYAK,Aussenkehr Airport,small_airport,NA,-28.4587,17.4645,970.0,no
+FYAM,Aminuis Airstrip,small_airport,NA,-23.6558,19.3517,4012.0,no
+FYAR,Arandis Airport,medium_airport,NA,-22.461875,14.979322,1905.0,no
+FYAS,Aus Airport,small_airport,NA,-26.668127,16.29312,4856.0,no
+FYAT,Autabib Airfield,small_airport,NA,-23.009534,17.686425,4836.0,no
+FYAV,Ariamsvlei Airport,small_airport,NA,-28.127166,19.837872,2549.0,no
+FYBC,Bethanien Airport,small_airport,NA,-26.5448,17.1816,3260.0,no
+FYBE,Betesda Airstrip,small_airport,NA,-24.618554,15.997697,3056.0,no
+FYBI,Arabi Hunting Farm Airfield,small_airport,NA,-26.391909,19.68725,3108.0,no
+FYBJ,Bitterwasser Lodge & Flying Club Airfield,small_airport,NA,-23.875,17.9911,4167.0,no
+FYBM,B2Gold Otjikoto Mine Airport,small_airport,NA,-19.992261,17.127671,4998.0,no
+FYBO,Blumfelde Airfield,small_airport,NA,-23.549891,18.323268,4253.0,no
+FYBR,Berseba Airfield,small_airport,NA,-25.982345,17.839329,3038.0,no
+FYBW,Bwabwata Airstrip,closed,NA,-17.819553,22.56441,3286.0,no
+FYBY,Byseewah Airstrip,small_airport,NA,-19.607944,15.430402,4059.0,no
+FYCC,Cape Cross Airstrip.,small_airport,NA,-21.762412,13.9912,31.0,no
+FYCV,Cordova Airstrip,small_airport,NA,-21.733142,18.521281,,no
+FYDC,Damaraland Wilderness Camp Airstrip,small_airport,NA,-20.431705,14.127124,1604.0,no
+FYDN,Doro Nawas Airstrip,small_airport,NA,-20.451007,14.287337,1525.0,no
+FYEA,Etendeka Airstrip,small_airport,NA,-19.803039,13.928163,3246.0,no
+FYEF,Epupa Falls Airstrip.,small_airport,NA,-17.029332,13.210312,2549.0,no
+FYEG,Erongo Mountain Ombu Airstrip,small_airport,NA,-21.667778,15.671146,4498.0,no
+FYEK,Epukiro Airport,small_airport,NA,-21.786699,19.1061,4892.0,no
+FYEM,Emeritus (Onanis) Airstrip,small_airport,NA,-22.892724,15.701427,3785.0,no
+FYEN,Eenhana Airport,small_airport,NA,-17.483,16.322001,3660.0,no
+FYEP,Epacha Airport,small_airport,NA,-19.42956,15.676921,,no
+FYER,Ermo Game Farm Airstrip,small_airport,NA,-19.296402,14.561886,4180.0,no
+FYET,Etusis Lodge Airport,small_airport,NA,-22.179404,15.755858,,no
+FYGB,Gobabis Airport,small_airport,NA,-22.5044,18.973101,4731.0,no
+FYGC,Gochas Airstrip,small_airport,NA,-24.8564,18.817801,3714.0,no
+FYGF,Grootfontein Airport,medium_airport,NA,-19.6022,18.1227,4636.0,no
+FYGK,Farm Whitwater East Landing Strip,small_airport,NA,-24.629999,15.9392,857.0,no
+FYGO,Gobabeb Airfield,small_airport,NA,-23.5443,15.04492,1381.0,no
+FYGT,Gross Tsaub Airstrip,small_airport,NA,-20.027908,15.066459,3723.0,no
+FYGV,Gravenstein Prv Airport,small_airport,NA,-23.4589,17.497801,4370.0,no
+FYHH,Helmeringhausen Airport,small_airport,NA,-25.863598,16.816362,4603.0,no
+FYHI,Halali Airport,small_airport,NA,-19.0285,16.4585,3639.0,yes
+FYHN,Henties Bay Airport,small_airport,NA,-22.10345,14.3025,,no
+FYHO,Hoanib Airstrip,small_airport,NA,-19.3864,13.1327,936.0,no
+FYHS,Hobas Airport,small_airport,NA,-27.624399185180664,17.693300247192383,2313.0,no
+FYHV,Hartmann Valley Airstrip,small_airport,NA,-17.377134,12.254745,2045.0,no
+FYIA,Intu Africa Pan Airport,small_airport,NA,-24.08830070495605,17.95170021057129,4012.0,no
+FYKA,Karibib Airport,small_airport,NA,-21.847799,15.9028,3829.0,no
+FYKB,Karasburg Airport,small_airport,NA,-28.0297,18.7385,3275.0,no
+FYKD,Kalkfeld Airport,small_airport,NA,-20.90139961242676,16.207799911499023,5059.0,no
+FYKE,Kalahari Game Lodge Airport,small_airport,NA,-25.651100158691406,19.87809944152832,3182.0,no
+FYKJ,Kamanjab Airport,small_airport,NA,-19.520599,14.8233,4259.0,no
+FYKM,Katima Mulilo Airport,medium_airport,NA,-17.634258,24.176688,3144.0,yes
+FYKT,Keetmanshoop Airport,medium_airport,NA,-26.539801,18.111401,3506.0,no
+FYKU,Kuidas Airstrip,small_airport,NA,-20.650026,13.860082,800.0,no
+FYKZ,Kuzikus Airstrip,small_airport,NA,-23.229516,18.3867,4417.0,no
+FYLO,Lodge Okajo Airstrip,small_airport,NA,-21.727778,16.195833,4206.0,no
+FYLR,La Rochelle Airfield,small_airport,NA,-18.978958,17.86126,3873.0,no
+FYLS,Lianshulu Lodge Airstrip,small_airport,NA,-18.116495,23.39346,3143.0,no
+FYLW,Langverwacht Airstrip,small_airport,NA,-25.000236,18.532866,3786.0,no
+FYLZ,Luderitz Airport,medium_airport,NA,-26.687400817871094,15.242899894714355,457.0,yes
+FYMB,Meob Bay Landing Site,small_airport,NA,-24.617235,14.697224,20.0,no
+FYME,Mount Etjo Airport,small_airport,NA,-21.0233001709,16.4528007507,5000.0,no
+FYMG,Midgard Airport,small_airport,NA,-22.0106,17.37,5125.0,no
+FYMH,Maltahoehe Airstrip,small_airport,NA,-24.770477,16.977822,4511.0,no
+FYMI,Mile 72 Airfield,small_airport,NA,-21.870352,14.079146,51.0,no
+FYMK,Kunene Mouth Airstrip,small_airport,NA,-17.270771,11.762853,15.0,no
+FYML,Mariental Airport,medium_airport,NA,-24.6054,17.9254,3650.0,no
+FYMO,Mokuti Lodge Airport,small_airport,NA,-18.812799,17.059401,3665.0,no
+FYMW,Moewe Bay Airport,small_airport,NA,-19.389049,12.743769,30.0,no
+FYWE,Eros Airport,medium_airport,NA,-22.60492,17.079002,5575.0,yes
+FYWH,Hosea Kutako International Airport,large_airport,NA,-22.4799,17.4709,5640.0,yes
+FYXX,Canon Lodge Airport,small_airport,NA,-27.65970039367676,17.837799072265625,3058.0,no
+IBL,Indigo Bay Lodge Airport,medium_airport,MZ,-21.708,35.452801,20.0,no
+IMG,Inhaminga Airport,small_airport,MZ,-18.41,35.0045,1072.0,no
+INE,Chinde Airport,small_airport,MZ,-18.59,36.4489,22.0,no
+LBM,Luabo Airport,small_airport,MZ,-18.4139,36.1068,36.0,no
+MJS,Maganja da Costa Airport,small_airport,MZ,-17.3087,37.5,215.0,no
+MTU,Montepuez Airport,small_airport,MZ,-13.121899604797363,39.05279922485352,,no
+MW-0001,Chintheche Aerodrome,small_airport,MW,-11.8353,34.16446,1650.0,no
+MW-0002,Katumbi Airport,closed,MW,-10.830489,33.508844,3986.0,no
+MW-0003,Dedza Airport,closed,MW,-14.383,34.317001,5240.0,no
+MW-0004,Mangochi Airport,closed,MW,-14.483,35.266998,1580.0,no
+MW-0005,Mponongo Airstrip,small_airport,MW,-13.990983,33.326776,3760.0,no
+MWR,Motswari Airport,small_airport,ZA,-24.1903,31.3864,1160.0,no
+MZ-0001,Mbatamila Airport,small_airport,MZ,-12.169599,37.54545,,no
+MZ-0002,Macalonge Airport,small_airport,MZ,-12.499796,35.428228,,no
+MZ-0003,Metangula Airport,small_airport,MZ,-12.701334,34.803468,1650.0,no
+MZ-0004,Magaruque Airport,closed,MZ,-21.9672451019,35.4247283936,20.0,no
+MZ-0008,Massinga Airport,small_airport,MZ,-23.345136,35.339172,,no
+MZ-0009,Homoine Airport,small_airport,MZ,-23.866113,35.136698,,no
+MZ-0010,Mabote Airport,small_airport,MZ,-22.044039,34.158814,,no
+MZ-0011,Baixo Pinda Airport,small_airport,MZ,-14.210912,40.696848,,no
+MZ-0013,Matemo Airport,small_airport,MZ,-12.201529,40.569915,,no
+MZ-0014,Medjumbe Airport,small_airport,MZ,-11.817449,40.602972,,no
+MZ-0016,Mbamba Airport,small_airport,MZ,-12.140706,38.318613,,no
+MZ-0017,Lugenda Wilderness Camp Airstrip,small_airport,MZ,-12.288658,37.818062,976.0,no
+MZ-0018,Buffalo Camp Airstrip,small_airport,MZ,-20.913318,34.283153,,no
+MZ-0020,Machasi Airport,small_airport,MZ,-20.823041,33.378488,,no
+MZ-0021,Massangena Airport,small_airport,MZ,-21.587678,32.929183,,no
+MZ-0023,Espungabera Airport,small_airport,MZ,-20.438769,32.774927,,no
+MZ-0025,Mafambisse Airport,small_airport,MZ,-19.575645,34.633552,,no
+MZ-0026,Mague Airport,small_airport,MZ,-15.810219,31.741015,,no
+MZ-0027,Blanguete Airport,small_airport,MZ,-15.684819,30.610828,,no
+MZ-0030,Fingoe Airport,small_airport,MZ,-15.172786,31.906405,,no
+MZ-0031,Milange Airport,small_airport,MZ,-16.124602,35.734548,,no
+MZ-0032,Gile Airport,small_airport,MZ,-16.163767,38.360793,,no
+MZ-0033,Chiure Airport,small_airport,MZ,-13.407165,39.803192,,no
+MZ-0034,Macomia Airport,small_airport,MZ,-12.271035,40.110719,,no
+MZ-0035,Meluco Airport,small_airport,MZ,-12.525447,39.654529,,no
+MZ-0036,Malvernia Airport,small_airport,MZ,-22.088361,31.693199,,no
+MZ-0037,Macossa Airport,small_airport,MZ,-17.86764,33.915103,,no
+MZ-0038,Mecanhelas Airport,small_airport,MZ,-15.202762,35.870151,,no
+MZ-0039,Mucumbura Airport,small_airport,MZ,-16.187755,31.686824,,no
+MZ-0040,Catandica Airport,small_airport,MZ,-18.136596,33.202238,,no
+MZ-0042,Mopeia Airport,small_airport,MZ,-17.977031,35.705003,,no
+MZ-0043,Chemba Airport,small_airport,MZ,-17.167836,34.882624,,no
+MZ-0044,Massingir Airport,small_airport,MZ,-23.939579,32.153803,,no
+MZ-0045,Inhassoro Airstrip,small_airport,MZ,-21.547634,35.119673,112.0,no
+MZ-0048,Afungi Airport,small_airport,MZ,-10.84903,40.50541,,no
+MZ-0051,Kenmare Moma Airport,small_airport,MZ,-16.55068,39.62062,,no
+MZ-0054,Machangulo Airport,small_airport,MZ,-26.20306,32.93819,,no
+MZ-0055,Moma Airport,closed,MZ,-16.74466,39.21883,20.0,no
+MZ-0056,Former Marromeu Airport,closed,MZ,-18.29363,35.93434,43.0,no
+MZ-0057,Chupanga Airport,closed,MZ,-18.0336,35.61152,123.0,no
+MZ-0059,Emboqui Airport,small_airport,MZ,-15.60454,32.41439,1240.0,no
+MZ-0061,Mandimba Airport,small_airport,MZ,-14.33943,35.663,2549.0,no
+MZ-TGS,Chokwé Airport,small_airport,MZ,-24.52059936523437,32.965301513671875,,no
+NA-0001,Kwessi Dunes Airfield,small_airport,NA,-24.837799,15.9069,2907.0,no
+NA-0002,Aminuis Pan Landing Site,small_airport,NA,-23.607200622558597,19.91580009460449,4075.0,no
+NA-0003,Anib Lodge Landing Site,small_airport,NA,-24.4347,18.104401,3950.0,no
+NA-0004,Aranos Airport,small_airport,NA,-24.128295,19.114591,3904.0,no
+NA-0005,Aranos Pan Landing Site,small_airport,NA,-24.109399795532227,19.288299560546875,3891.0,no
+NA-0006,Auob Lodge Airport,small_airport,NA,-24.822194,18.762192,3730.0,no
+NA-0007,Basaroot Landing Site,closed,NA,-23.7583007812,18.2938995361,4163.0,no
+NA-0008,Bitterwasser N. Sta Airport,small_airport,NA,-23.865800857543945,17.991100311279297,4150.0,no
+NA-0009,Bitterwasser North Airport,small_airport,NA,-23.86720085144043,17.979999542236328,4154.0,no
+NA-0010,Blumfelde Pan Landing Site,small_airport,NA,-23.565000534057617,18.3710994720459,4219.0,no
+NA-0011,Bush Breaks Lodge Landing Site,small_airport,NA,-22.327800750732425,19.750600814819336,4734.0,no
+NA-0012,Bagani Airport,small_airport,NA,-18.11848,21.623296,3314.0,no
+NA-0013,Derm East Pan Landing Site,small_airport,NA,-23.66670036315918,18.216699600219727,4219.0,no
+NA-0014,Dordabis Carpet Airport,small_airport,NA,-22.95439910888672,17.639699935913086,4970.0,no
+NA-0015,Eirup Landing Site,small_airport,NA,-24.23189926147461,18.40920066833496,3921.0,no
+NA-0016,Eureka Farm Airport,small_airport,NA,-21.198099,17.8211,4705.0,no
+NA-0017,Georgia Peter Schomarz Landing Site,small_airport,NA,-23.28059959411621,18.63419914245605,4298.0,no
+NA-0018,Greub Landing Site,small_airport,NA,-23.12190055847168,16.733600616455078,5604.0,no
+NA-0019,Grootpan East Landing Site,small_airport,NA,-23.543100357055664,18.38419914245605,4259.0,no
+NA-0020,Hannover N Airport,small_airport,NA,-23.361900329589844,17.80389976501465,4459.0,no
+NA-0021,Haribes Dam Strip,small_airport,NA,-24.6210994720459,17.540800094604492,3894.0,no
+NA-0022,Hetaku Game Lodge Landing Site,small_airport,NA,-21.98189926147461,18.507200241088867,5128.0,no
+NA-0023,Judaea Strip,small_airport,NA,-23.745800018310547,18.091100692749023,4216.0,no
+NA-0024,Julia Landing Site,small_airport,NA,-22.96999931335449,18.19389915466309,4616.0,no
+NA-0025,Kalkrand Pan Landing Site,small_airport,NA,-24.06220054626465,17.596900939941406,4022.0,no
+NA-0026,Kamombombe East Airport,small_airport,NA,-21.614200592041016,16.055599212646484,4098.0,no
+NA-0027,Kansimba Landing Site,small_airport,NA,-22.044443,16.178859,4098.0,no
+NA-0028,Kentani Landing Site,small_airport,NA,-23.862199783325195,17.857200622558594,4055.0,no
+NA-0029,Kentucky Sud Pan Landing Site,small_airport,NA,-22.7450008392334,19.31329917907715,4554.0,no
+NA-0030,Kerweder Airport,small_airport,NA,-24.96310043334961,16.013599395751953,3179.0,no
+NA-0031,Khorab Safari Lodge Airport,small_airport,NA,-19.641399,17.319401,4616.0,no
+NA-0032,Kiripotib Landing Site,small_airport,NA,-23.32830047607422,17.946399688720703,4475.0,no
+NA-0033,Klein Aub 15M Landing Site,small_airport,NA,-23.790599822998047,16.658599853515625,5085.0,no
+NA-0034,Klein Aub Pan Ok Landing Site,small_airport,NA,-23.78059959411621,16.645000457763672,5105.0,no
+NA-0035,Louwater Pan Landing Site,small_airport,NA,-23.267104,17.733651,4551.0,no
+NA-0036,Maltahoehe 4 Kal Landing Site,small_airport,NA,-24.531400680541992,17.18440055847168,4446.0,no
+NA-0037,Maltahoehe 5 Kal Landing Site,small_airport,NA,-24.11079978942871,17.564199447631836,4121.0,no
+NA-0038,Maltahoehe 6 Kal Landing Site,small_airport,NA,-24.12529945373535,17.55780029296875,4114.0,no
+NA-0039,Maltahoehe 7 Kal Landing Site,small_airport,NA,-24.336700439453125,17.340599060058594,4229.0,no
+NA-0040,Maltahoehe 8 Kal Landing Site,small_airport,NA,-24.343900680541992,17.332199096679688,4216.0,no
+NA-0041,Maltahoehe 9 Kal Landing Site,small_airport,NA,-24.510799407958984,17.18829917907715,4439.0,no
+NA-0042,Mbela Big Wings Landing Site,small_airport,NA,-23.74250030517578,17.911699295043945,4226.0,no
+NA-0043,Hammerstein Airstrip,small_airport,NA,-24.889386,16.198004,4849.0,no
+NA-0044,Moscow Landing Site,small_airport,NA,-25.183300018310547,19.25690078735352,3481.0,no
+NA-0067,Geluk Airstrip,small_airport,NA,-24.6733,15.7919,2402.0,no
+NA-0070,Guibes Landing Strip,small_airport,NA,-26.700000762939453,16.950000762939453,4091.0,no
+NA-0071,Keetmansh Railroad Airport,small_airport,NA,-26.59305000305176,18.1422176361084,3231.0,no
+NA-0072,Klipdrif Airstrip,small_airport,NA,-26.51666641235352,16.916667938232422,4245.0,no
+NA-0074,Koes Airport,small_airport,NA,-25.934582,19.115206,3175.0,no
+NA-0077,Mata Mata Landing Site,closed,NA,-25.7677822113,20.0,3125.0,no
+NA-0078,Brukkaros Landing Strip,small_airport,NA,-25.69945,18.053049,3190.0,no
+NA-0079,Finger Gottes Airstrip,small_airport,NA,-25.497217178344727,18.17250061035156,3461.0,no
+NA-0081,Guamus Airport,small_airport,NA,-25.19778251647949,18.273616790771484,3838.0,no
+NA-0082,Gibeon Airport,small_airport,NA,-25.127216339111328,17.76194953918457,3428.0,no
+NA-0084,Maltahoehe S Airport,small_airport,NA,-24.835599899291992,16.975200653076172,4465.0,no
+NA-0085,Katzensteg Airport,small_airport,NA,-24.769716262817383,18.98833274841309,3683.0,no
+NA-0087,Lendepas Landing Site,small_airport,BW,-24.750339,19.999709,3451.0,no
+NA-0090,Kouwater Landing Site,small_airport,NA,-24.62638282775879,18.04361724853516,3777.0,no
+NA-0092,Gianti-1 Airport,small_airport,NA,-24.252599716186523,16.315500259399414,4521.0,no
+NA-0093,Kub Landing Site,small_airport,NA,-24.21554946899414,17.49333381652832,3982.0,no
+NA-0095,Bullsport Landig Site,small_airport,NA,-24.11666679382324,16.366666793823242,5120.0,no
+NA-0096,Morester Landing Site,small_airport,NA,-24.116117477416992,19.977783203125,3863.0,no
+NA-0097,Lidfontein Landing Site,small_airport,NA,-24.078646,18.184487,3975.0,no
+NA-0103,Hoachanas Airport,small_airport,NA,-23.915000915527344,18.04916763305664,4137.0,no
+NA-0104,Droeplaas Landing Site,small_airport,NA,-23.81861686706543,19.082500457763672,4058.0,no
+NA-0106,Bimsfarm Landing Site,small_airport,NA,-23.72833251953125,18.147216796875,4215.0,no
+NA-0108,Gomnab Airport,small_airport,NA,-23.69179916381836,18.27239990234375,4190.0,no
+NA-0111,Kaukerus Landing Site,small_airport,NA,-23.63937,17.864017,4314.0,no
+NA-0112,Cowdray Airstrip,small_airport,NA,-23.54471778869629,17.787782669067383,4314.0,no
+NA-0114,Leonardville Airport,small_airport,NA,-23.51502,18.789507,4166.0,no
+NA-0115,Beenbreek Landing Site,small_airport,NA,-23.474603,17.948042,4399.0,no
+NA-0116,Gamsberg Landing Site,small_airport,NA,-23.36669921875,16.25,5885.0,no
+NA-0117,Gams Farm Landing Site,small_airport,NA,-23.36666679382324,16.299999237060547,6063.0,no
+NA-0119,Klein Nauas Landing Site,small_airport,NA,-23.31666755676269,17.844167709350586,4474.0,no
+NA-0123,Goellschau Farm Landing Site,small_airport,NA,-23.274999618530277,16.538883209228516,5934.0,no
+NA-0124,Louwater S M7 Airport,small_airport,NA,-23.258301,17.9699,4504.0,no
+NA-0125,Garib Landing Site,small_airport,NA,-23.13500022888184,17.63279914855957,4750.0,no
+NA-0127,Doornpoort Airstrip,small_airport,NA,-23.073883056640625,18.051382064819336,4597.0,no
+NA-0129,Bergland Landing  Strip,small_airport,NA,-22.973333,17.144716,5517.0,no
+NA-0130,Krumneck Airport,small_airport,NA,-22.96138381958008,16.934450149536133,5768.0,no
+NA-0131,Keitzaub Landing Site,small_airport,NA,-22.810283660888672,18.84971618652344,4469.0,no
+NA-0133,Aris Landrig Strip,small_airport,NA,-22.756383895874023,17.13526725769043,5820.0,no
+NA-0135,Gobabis Street-T Airport,small_airport,NA,-22.43611717224121,19.01361656188965,4815.0,no
+NA-0138,Eintracht Airstrip,small_airport,NA,-22.353050231933597,18.2450008392334,4958.0,no
+NA-0141,Buitepos Airstrip,small_airport,NA,-22.266707,19.99906,4210.0,no
+NA-0142,Drimiopsis Landing Site,small_airport,NA,-22.06666755676269,19.06666755676269,5023.0,no
+NA-0145,Albrechts Aistrip,small_airport,NA,-21.9455509185791,16.06999969482422,4478.0,no
+NA-0148,Fortuna Landing Site,small_airport,NA,-21.808332443237305,19.90833282470703,4389.0,no
+NA-0150,Epukiro North Landing Site,small_airport,NA,-21.67526626586914,19.21693229675293,4770.0,no
+NA-0151,Epukiru Airport,small_airport,NA,-21.61666679382324,19.399999618530277,4633.0,no
+NA-0153,Hochfeld Airport,small_airport,NA,-21.49028205871582,17.85194969177246,5127.0,no
+NA-0154,Godehoop Landing Site,small_airport,NA,-21.28333282470703,15.533332824707031,3567.0,no
+NA-0158,Isibis Airstrip,small_airport,NA,-23.4178,16.5075,5600.0,no
+NA-0159,Khorixas Airport,small_airport,NA,-20.366192,15.059298,3353.0,no
+NA-0162,Kongola Airport,small_airport,NA,-17.775197,23.307089,,no
+NA-0167,B8 Airstrip,small_airport,NA,-19.059552,18.664579,,no
+NA-0169,Ehomba Airport,small_airport,NA,-17.488,13.836836,3578.0,no
+NA-0172,Haklesdoorn Airport,small_airport,NA,-28.886092,18.239166,,no
+NA-0174,Farm Etemba Landing Strip,small_airport,NA,-21.405111,15.606778,3503.0,no
+NA-0175,Farm Dawib Ost Landing Strip,small_airport,NA,-21.774528,15.515361,3503.0,no
+NA-0176,Kalkrand Airfield,small_airport,NA,-24.07675,17.610417,4061.0,no
+NA-0177,Desert Rhino Camp Airstrip,small_airport,NA,-20.036661,13.844147,,no
+NA-0181,Bakers Bay Airstrip,small_airport,NA,-27.66285,15.53276,,no
+NA-0182,Former Aus Airfield,closed,NA,-26.69351,16.31889,4898.0,no
+NA-0183,Mushara Lodge Airfield,small_airport,NA,-18.8231,17.14528,3701.0,no
+NA-0185,Brandberg White Lady Lodge Airfield,small_airport,NA,-21.0267,14.67952,1555.0,no
+NA-0188,Mapulanga Airstrip,small_airport,NA,-17.86823,23.34095,3176.0,no
+NA-0189,Erindi Ranch Airstrip,small_airport,NA,-21.536138,16.392607,5742.0,no
+RRM,Marromeu Airport,small_airport,MZ,-18.319259,35.949501,39.0,no
+VJQ,Gurue Airport,small_airport,MZ,-15.5062,36.9904,2248.0,no
+VUU,Mvuu Camp Airport,small_airport,MW,-14.838611,35.301389,1600.0,no
+ZA-0001,Beulah Airport,small_airport,ZA,-33.905277252197266,24.95694351196289,34.0,no
+ZA-0002,Bhejane Game Reserve Airport,small_airport,ZA,-33.1966667175293,23.934667587280277,1895.0,no
+ZA-0003,Koppies Airport,small_airport,ZA,-27.25,27.549999237060547,,no
+ZA-0004,Brown's Landing Airport,small_airport,ZA,-32.69652,28.321643,300.0,no
+ZA-0005,Blanco Airport,small_airport,ZA,-32.08333206176758,26.299999237060547,4200.0,no
+ZA-0006,Brosterlea Farm Airport,small_airport,ZA,-31.28333282470703,26.56666755676269,5500.0,no
+ZA-0010,Arbeitsgenot Airport,small_airport,ZA,-28.73590087890625,27.231800079345703,4800.0,no
+ZA-0011,Brandfort Moreson Airport,small_airport,ZA,-28.690399,26.420799,4647.0,no
+ZA-0012,Arizona Airport,small_airport,ZA,-28.453332901000977,27.524999618530277,5500.0,no
+ZA-0015,Aldam Airport,small_airport,ZA,-28.268888473510746,27.1613883972168,5105.0,no
+ZA-0016,Aero Farm Airport,small_airport,ZA,-28.22361183166504,29.115833282470703,5580.0,no
+ZA-0017,Alberta Airport,small_airport,ZA,-27.984167098999023,28.39444351196289,5540.0,no
+ZA-0018,Bartsrus Airport,small_airport,ZA,-27.96041679382324,25.835832595825195,4200.0,no
+ZA-0019,Braehead Airport,small_airport,ZA,-27.680500030517575,27.25349998474121,4300.0,no
+ZA-0020,Anton Fourie Farm Airport,small_airport,ZA,-27.5,26.330554962158203,4300.0,no
+ZA-0022,Appleby Airport,small_airport,ZA,-27.20133399963379,26.903499603271484,4300.0,no
+ZA-0025,Aero 57 Airport,small_airport,ZA,-25.903165817260746,28.082000732421875,5100.0,no
+ZA-0026,Blue Mountain Valley Airport,small_airport,ZA,-25.857500076293945,27.62777709960937,4150.0,no
+ZA-0027,Bronkhorstspruit Airport,closed,ZA,-25.771389,28.726944,4800.0,no
+ZA-0029,Amersfoort Airport,small_airport,ZA,-27.020000457763672,29.8700008392334,4500.0,no
+ZA-0030,Dasville Airport,small_airport,ZA,-26.816668,28.466667,5250.0,no
+ZA-0031,Evander Landing Strip Airport,small_airport,ZA,-26.489999771118164,29.07999992370605,5288.0,no
+ZA-0033,Mooivlei Airport,small_airport,ZA,-26.24799919128418,29.71540069580078,5600.0,no
+ZA-0035,Blesbokfontain Airport,small_airport,ZA,-26.17569923400879,29.18219947814941,5294.0,no
+ZA-0036,Forel Airport,small_airport,ZA,-25.950000762939453,30.11666679382324,6464.0,no
+ZA-0037,Benics Airport,small_airport,ZA,-25.8188991547,29.2217006683,5100.0,no
+ZA-0038,Hippo Pools Airport,small_airport,ZA,-24.1997222222,30.8125,1145.0,no
+ZA-0039,Blackie Swart Airport,small_airport,ZA,-25.57550048828125,30.975860595703125,3300.0,no
+ZA-0040,Lavino Airport,small_airport,ZA,-24.833334,30.1,2550.0,no
+ZA-0041,Londolozi Airstrip,small_airport,ZA,-24.808094,31.504564,1176.0,no
+ZA-0042,Adamsfontein Airport,small_airport,ZA,-30.580979,25.263259,3970.0,no
+ZA-0043,Bosluispan  Airport,small_airport,ZA,-29.850276947021484,18.96555519104004,2874.0,no
+ZA-0044,Bateleur Airport,small_airport,ZA,-29.139166,23.648333,3368.0,no
+ZA-0045,John Weston Airport,small_airport,ZA,-28.733333587646484,24.66666603088379,3936.0,no
+ZA-0047,Augrabies Airport,small_airport,ZA,-28.627087,20.324893,2200.0,no
+ZA-0048,Barkly West Airport,small_airport,ZA,-28.532047,24.537843,3800.0,no
+ZA-0049,Baken Mine Airport,small_airport,ZA,-28.40925025939941,16.779722213745117,135.0,no
+ZA-0051,Bells Bank Airport,small_airport,ZA,-28.104999542236328,24.37833404541016,3875.0,no
+ZA-0052,Dippiesfield Airport,small_airport,ZA,-28.03222274780273,23.202777862548828,4500.0,no
+ZA-0053,Ganspan Airport,small_airport,ZA,-27.94166755676269,24.81999969482422,3778.0,no
+ZA-0054,Askham Airport,small_airport,ZA,-26.9869441986,20.7772216797,2801.0,no
+ZA-0055,Barrange Airport,small_airport,ZA,-26.125,22.61888885498047,3300.0,no
+ZA-0057,Diamond Valley Airport,small_airport,ZA,-30.27199935913086,29.39739990234375,4900.0,no
+ZA-0058,Alverstone Airfield,small_airport,ZA,-29.77972221374512,30.718334197998047,2740.0,no
+ZA-0059,Baynesfield Estate Airport,small_airport,ZA,-29.761667251586918,30.3397216796875,2772.0,no
+ZA-0060,Ballito Bay (Dolphin Coast) Airport,small_airport,ZA,-29.488899,31.179001,200.0,no
+ZA-0061,Clan Airport,small_airport,ZA,-29.354900360107425,30.4281005859375,2180.0,no
+ZA-0062,Amatikulu (Microlight) Airport,small_airport,ZA,-29.098167419433597,31.5049991607666,240.0,no
+ZA-0063,Amphitheatre Lodge Airport,small_airport,ZA,-28.639941,29.147501,3900.0,no
+ZA-0066,Battlefields Airport,small_airport,ZA,-28.131526947021484,30.290416717529297,4040.0,no
+ZA-0067,Jozini Airport,small_airport,ZA,-27.350000381469727,32.13333511352539,355.0,no
+ZA-0068,Bonwa Phala Airport,small_airport,ZA,-24.886667251586918,28.04722213745117,3650.0,no
+ZA-0070,Batavia Airport,small_airport,ZA,-24.668333053588867,26.536666870117188,3195.0,no
+ZA-0071,Blyde Canyon Airport,small_airport,ZA,-24.57088,30.77329,4300.0,no
+ZA-0074,Boulders Game Ranch Airport,small_airport,ZA,-24.108055114746094,30.90916633605957,1500.0,no
+ZA-0075,Boulders Game Ranch 2 (Microlight) Airport,small_airport,ZA,-24.08666610717773,30.843889236450195,1500.0,no
+ZA-0077,Babala Lodge Airport,small_airport,ZA,-23.328611373901367,27.60961151123047,2700.0,no
+ZA-0078,Baltimore Airport,small_airport,ZA,-23.257788,28.408928,3203.0,no
+ZA-0079,Bergtop Airport,small_airport,ZA,-22.917943954467773,29.45783424377441,2620.0,no
+ZA-0081,Alldays (Greater Kuduland) Airport,small_airport,ZA,-22.80380630493164,28.995750427246094,2590.0,no
+ZA-0082,Alldays Safaris Airport,small_airport,ZA,-22.667200088500977,29.315200805664062,2650.0,no
+ZA-0083,Avarel Airport,small_airport,ZA,-22.579599380493164,29.968900680541992,2100.0,no
+ZA-0084,Bospoort Airport,closed,ZA,-26.595556,26.229221,5085.0,no
+ZA-0085,Mafikeng North Airport,closed,ZA,-25.753393,25.611982,4181.0,no
+ZA-0086,Aero Den Airport,small_airport,ZA,-25.726667404174805,27.739721298217773,4050.0,no
+ZA-0087,Botsalano Airport,small_airport,ZA,-25.53333282470703,25.733333587646484,4659.0,no
+ZA-0088,Beestekraal Airport,small_airport,ZA,-25.299999237060547,27.53333282470703,3200.0,no
+ZA-0089,Lobatse Southeast Airport,small_airport,ZA,-25.24620056152344,25.88190078735352,3742.0,no
+ZA-0090,Assegaay Bosch Game Lodge Airport,small_airport,ZA,-33.760250091552734,21.54722213745117,620.0,no
+ZA-0091,Altona Airport,small_airport,ZA,-33.707637786865234,18.646249771118164,261.0,no
+ZA-0092,Holrivier Airport,small_airport,ZA,-31.56666755676269,18.38333320617676,225.0,no
+ZA-0093,Britstown Airport,small_airport,ZA,-30.58333396911621,23.51666641235352,3500.0,no
+ZA-0094,Hazyview Airport,small_airport,ZA,-25.05010032653809,31.13190078735352,1810.0,no
+ZA-0095,Khoka Moya Airport,small_airport,ZA,-24.593000411987305,31.41510009765625,1440.0,no
+ZA-0096,Mkambati Airport,small_airport,ZA,-31.2849,29.9884,560.0,no
+ZA-0097,Inyati Airport,small_airport,ZA,-24.777700424194336,31.385499954223636,1245.0,no
+ZA-0099,Holbank Airport,small_airport,ZA,-26.57099914550781,30.243000030517575,,no
+ZA-0100,Bapsfontein Airport,small_airport,ZA,-25.991908,28.415932,5292.0,no
+ZA-0103,Former Bredasdorp Airport,closed,ZA,-34.665,20.0628,30.0,no
+ZA-0104,Kagga Kamma Airport,small_airport,ZA,-32.732359,19.540073,3494.0,no
+ZA-0105,Aviators Paradise Field,small_airport,ZA,-25.692875,27.782657,3800.0,no
+ZA-0108,Bethal Airport,small_airport,ZA,-26.480902,29.466671,5475.0,no
+ZA-0109,Bloemhof Airport,small_airport,ZA,-27.6094,25.5794,4127.0,no
+ZA-0111,Kudu Private Nature Reserve,small_airport,ZA,-24.995,30.4033333333,4580.0,no
+ZA-0112,Fly Inn Estate,small_airport,ZA,-25.9711496926,28.3502766059,5300.0,no
+ZA-0115,Knysna / High Way Airfield,small_airport,ZA,-33.950756,22.979482,,no
+ZA-0119,Cape Town Waterfront Heliport,heliport,ZA,-33.901018,18.425936,,no
+ZA-0120,Morningstar Airfield,small_airport,ZA,-33.758944,18.548195,200.0,no
+ZA-0121,Munster Airfield,closed,ZA,-31.0033,30.2487,180.0,no
+ZA-0122,Au Beep Flats Airport,small_airport,ZA,-28.1081,16.8936,190.0,no
+ZA-0124,Doringbaai Airstrip,small_airport,ZA,-31.8057,18.2384,130.0,no
+ZA-0126,Monosite Airfield,small_airport,ZA,-31.1227,18.6095,940.0,no
+ZA-0128,Garies Airport,closed,ZA,-30.6075,17.9039,1348.0,no
+ZA-0129,Hondeklip Bay Airstrip,small_airport,ZA,-30.3366,17.2896,100.0,no
+ZA-0130,Gamoep Airstrip,small_airport,ZA,-29.9214,18.4237,3140.0,no
+ZA-0132,Buffels River Airport,small_airport,ZA,-29.6265,17.4522,615.0,no
+ZA-0134,Annakop Airport,small_airport,ZA,-29.1057,19.0791,2528.0,no
+ZA-0136,Kirstonia Airport,small_airport,ZA,-25.4681,23.6971,3455.0,no
+ZA-0140,Kuruman Hospital Heliport,heliport,ZA,-27.459904,23.443762,,no
+ZA-0141,Groblershoop Airport,small_airport,ZA,-28.912138,21.992947,,no
+ZA-0142,Hopetown Airport,small_airport,ZA,-29.630074,24.095224,,no
+ZA-0144,Luckhof Airport,small_airport,ZA,-29.737988,24.780042,,no
+ZA-0145,Jacobsdal Airport,small_airport,ZA,-29.11701,24.785856,,no
+ZA-0146,Griekwastad Airport,small_airport,ZA,-28.832734,23.27354,,no
+ZA-0147,Lady Grey Golf Course Airstrip,small_airport,ZA,-30.706581,27.208231,,no
+ZA-0148,Hanover Airport,small_airport,ZA,-31.075719,24.452623,,no
+ZA-0151,Leeukop Farm Airfield,small_airport,ZA,-26.866842,28.072443,4954.0,no
+ZA-0153,Elandspad Airfield,small_airport,ZA,-34.433548,20.722225,293.0,no
+ZA-0155,Letaba Rest Camp Airstrip,small_airport,ZA,-23.833534,31.570522,,no
+ZA-0157,Mutele-Masisi Airport,small_airport,ZA,-22.507196,30.891882,,no
+ZA-0160,Chalumna River Airstrip,closed,ZA,-33.21,27.572,20.0,no
+ZA-0161,Klipriver Airfield,small_airport,ZA,-26.475684,28.111032,5001.0,no
+ZA-0162,Bingelela,small_airport,ZA,-28.711116,29.331242,3731.0,no
+ZA-0163,Kalahari Oryx,small_airport,ZA,-28.421977,22.200966,2880.0,no
+ZA-0165,Manzengwenya Airstrip,small_airport,ZA,-27.25942,32.7522,,no
+ZA-0168,Intertherm Durban Heliport,heliport,ZA,-29.74968,31.02946,,no
+ZA-0169,Lekoa Airstrip,small_airport,ZA,-26.9457,28.7136,5085.0,no
+ZA-0170,King Dinizulu Hospital Helipad,heliport,ZA,-29.82198,30.98905,,no
+ZA-0171,Life Westville Hospital Helipad,heliport,ZA,-29.85098,30.93211,,no
+ZA-0172,Life Entabeni Hospital Helipad,heliport,ZA,-29.85551,30.98743,,no
+ZA-0173,Inkosi Albert Luthuli Central Hospital Helipad,heliport,ZA,-29.87386,30.95876,,no
+ZA-0174,King Edward VIII Hospital Helipad,heliport,ZA,-29.8822,30.98953,,no
+ZA-0177,Delta Golf Airstrip,small_airport,ZA,-30.773168,30.423876,,no
+ZA-0181,Kwelega Road Airstrip,small_airport,ZA,-32.905791,28.039851,,no
+ZA-0183,Mtwentwe Farm Airfield,small_airport,ZA,-32.74585,28.22815,,no
+ZA-0184,Haga Haga Airfield,small_airport,ZA,-32.75634,28.23044,,no
+ZA-0187,Dudley's Field,small_airport,ZA,-34.0473,23.3033,,no
+ZA-0188,Bosrivier Airstrip,small_airport,ZA,-34.0293,23.2907,,no
+ZA-0189,Leppan Airfield,small_airport,ZA,-33.939568,22.66619,,no
+ZA-0190,Mud Flats SANPARKS Airstrip,closed,ZA,-34.053237,23.066045,,no
+ZA-0191,Bosbokduin Airstrip,closed,ZA,-34.3956,21.4017,239.0,no
+ZA-0195,Contermanskloof Airstrip,small_airport,ZA,-33.8025,18.5799,,no
+ZA-0197,Lambert's Bay Airfield,small_airport,ZA,-32.1018,18.336,,no
+ZA-0200,Marion Research Station Heliport,heliport,ZA,-46.875999,37.857356,,no
+ZA-0202,Edenvale Hospital Helipad,heliport,ZA,-26.1284,28.1288,5191.0,no
+ZA-0203,Mediclinic Sandton Heliport,heliport,ZA,-26.0779,28.0121,5134.0,no
+ZA-0204,Chris Hani Baragwanath Hospital Helipad,closed,ZA,-26.2603,27.9431,5466.0,no
+ZA-0206,Charlotte Maxeke Johannesburg Academic Hospital Helipad,heliport,ZA,-26.1759,28.0441,5817.0,no
+ZA-0208,Milpark Hospital Helipad,heliport,ZA,-26.1806,28.017,5486.0,no
+ZA-0210,Midstream Helipad,heliport,ZA,-25.9279,28.1971,4954.0,no
+ZA-0212,Dimension Data Helipad,heliport,ZA,-26.0422,28.0248,4993.0,no
+ZA-0213,Life Fourways Hospital Helipad,heliport,ZA,-26.0119,27.9952,4813.0,no
+ZA-0214,Mediclinic Midstream Heliport,heliport,ZA,-25.9248,28.1827,5128.0,no
+ZA-0215,Benoni Heliport,heliport,ZA,-26.1738,28.3492,5377.0,no
+ZA-0216,Bierman Landgoed Airstrip,small_airport,ZA,-26.9936,28.3217,4905.0,no
+ZA-0217,Jim Fouche Resort Airport,small_airport,ZA,-27.0015,28.3706,4993.0,no
+ZA-0219,Aeropark Zyn Kraal,small_airport,ZA,-25.902761,28.5473,4900.0,no
+ZA-0221,Belladona Airfield,small_airport,ZA,-26.964755,24.063159,4428.0,no
+ZA-0222,Buisfontein Airfield,small_airport,ZA,-27.164519,26.066372,4767.0,no
+ZA-0223,Eagle Flight Academy Airfield,small_airport,ZA,-27.796561,24.973713,4070.0,no
+ZA-0224,Beefmaster Airfield,small_airport,ZA,-27.820009,25.220394,4044.0,no
+ZA-0225,Boscobel Airfield,small_airport,ZA,-27.943429,25.488965,4216.0,no
+ZA-0226,Mawala Airstrip,small_airport,ZA,-24.979776,27.295747,3412.0,no
+ZA-0228,De Hoop Nature Reserve Airstrip,small_airport,ZA,-34.454359,20.417855,72.0,no
+ZA-0229,Glendower Farm,small_airport,ZA,-30.5978,29.396,4300.0,no
+ZA-0230,Madikwe West Airport,small_airport,ZA,-24.8231,26.2236,3646.0,no
+ZA-0233,Marataba Airport,small_airport,ZA,-24.2408,27.4908,3215.0,no
+ZA-0236,ATE Helipad,heliport,ZA,-25.962091,28.137263,,no
+ZA-0240,Kwande Airstrip,small_airport,ZA,-33.133964,26.581936,,no
+ZA-0242,Interwaste Heliport,heliport,ZA,-26.2213,28.18166,,no
+ZA-0246,Moledi Heliport,heliport,ZA,-25.8806,27.1661,4541.0,no
+ZA-0247,Molori Heliport,heliport,ZA,-24.7198,26.3793,3182.0,no
+ZA-0249,Glen Lyon Farm Airstrip,small_airport,ZA,-28.812247,22.383753,3640.0,no
+ZA-0250,Marula Game Lodge Heliport,heliport,ZA,-25.125188,29.477766,3340.0,no
+ZA-0251,Eagle View Helipad,heliport,ZA,-25.390456,30.172134,,no
+ZA-0252,Cape Blue Mine Airport,small_airport,ZA,-29.334946,22.264621,3050.0,no
+ZA-0253,Glenside Airfield,small_airport,ZA,-28.886091,29.537859,3520.0,no
+ZA-0254,Auchas Airport,small_airport,ZA,-28.33486,16.79609,141.0,no
+ZA-0255,Grasdrif Airport,small_airport,ZA,-28.38971,17.40487,413.0,no
+ZA-0258,Augrabies South Airport,small_airport,ZA,-28.64383,20.30865,2260.0,no
+ZA-0259,Bakenrant Boerdery Airport,small_airport,ZA,-28.62423,20.44023,2205.0,no
+ZA-0260,Bakenrant North Airport,small_airport,ZA,-28.62141,20.45135,2244.0,no
+ZA-0261,Kakamas West Airport,small_airport,ZA,-28.76598,20.57473,2224.0,no
+ZA-0265,Mountain View Estate Airfield,small_airport,ZA,-25.86641,27.87726,4731.0,no
+ZA-0267,Bo Karoo South Airport,small_airport,ZA,-29.33704,23.17968,3212.0,no
+ZA-0268,Higgs Hope Airport,small_airport,ZA,-29.30453,23.28233,3362.0,no
+ZA-0269,Bo Karoo North Airport,small_airport,ZA,-29.26596,23.20544,3491.0,no
+ZA-0273,Former Douglas Airport,closed,ZA,-29.07549,23.76682,2386.0,no
+ZA-0274,Bucklands Airport,small_airport,ZA,-29.09647,23.73104,3323.0,no
+ZA-0275,Douglas North Airport,small_airport,ZA,-28.96775,23.76557,3445.0,no
+ZA-0277,Klipkraal Airport,small_airport,ZA,-29.58183,24.14208,3550.0,no
+ZA-0280,Corbetts Hope Airport,small_airport,ZA,-30.62622,26.34493,4360.0,no
+ZA-0281,Braklaagte East Airport,small_airport,ZA,-30.59828,26.94294,4649.0,no
+ZA-0282,Mayaputi Game Reserve Airport,small_airport,ZA,-30.42799,27.31309,5076.0,no
+ZA-0283,Douglas Northeast Airport,small_airport,ZA,-28.92598,23.94547,3310.0,no
+ZA-0284,Farm Romance Airport,small_airport,ZA,-28.4931,24.67943,3668.0,no
+ZA-0285,Holpan Airport,small_airport,ZA,-28.38082,24.60613,3806.0,no
+ZA-0286,Almar Exclusive Game Ranch Airport,small_airport,ZA,-27.59869,25.3439,4150.0,no
+ZA-0287,Louwilla Lodge Airport,small_airport,ZA,-27.58119,25.32355,4200.0,no
+ZA-0288,Belle Rive Airport,small_airport,ZA,-27.96792,25.13416,4000.0,no
+ZA-0289,Balkfontein Airport,small_airport,ZA,-27.41043,26.46573,4190.0,no
+ZA-0292,Duff Scott Hospital Heliport,heliport,ZA,-26.8634,26.80418,4354.0,no
+ZA-0293,Afrikaanse Hengel Vereeniging (Afrikaans Fishing Association) Airport,small_airport,ZA,-26.93936,28.32789,4879.0,no
+ZA-0294,Grootbraai Airport,small_airport,ZA,-27.03587,28.65938,5016.0,no
+ZA-0295,Lekoa Heliport,heliport,ZA,-26.95184,28.7219,4979.0,no
+ZA-0297,Madikwe East Airport,small_airport,ZA,-24.733331,26.40642,3091.0,no
+ZA-0301,Kokomori Airport,small_airport,ZA,-23.08269,27.90621,2575.0,no
+ZA-0302,Hood Point Heliport,heliport,ZA,-33.04079,27.89823,152.0,no
+ZA-0303,Fort D'Acre Reserve Airport,small_airport,ZA,-33.49369,27.11207,151.0,no
+ZA-0306,Cannon Valley Estate Airport,small_airport,ZA,-34.32444,21.89169,61.0,no
+ZA-0307,Bredasdorp Airport,small_airport,ZA,-34.54802,20.08476,105.0,no
+ZA-0308,Modderrivier Airport,small_airport,ZA,-29.01958,24.6535,,no
+ZA-0309,Mokala Airport,small_airport,ZA,-29.17329,24.26292,,no
+ZA-0311,Livingstone Hospital Heliport,heliport,ZA,-33.926379,25.57166,154.0,no
+ZA-0312,Dora Nginza Provincial Hospital Heliport,heliport,ZA,-33.880352,25.562777,171.0,no
+ZA-0313,Kinkelbos Heliport,heliport,ZA,-33.64509,25.87882,384.0,no
+ZA-0314,Dorchester Farm Airport,small_airport,ZA,-25.47443,23.74773,,no
+ZA-0315,Bray East Airport,small_airport,ZA,-25.47992,23.73199,,no
+ZA-0316,Himeville Airfield,small_airport,ZA,-29.74906,29.50408,5349.0,no
+ZA-0317,Eagles Creek Aviation Estate Airport,small_airport,ZA,-25.907632,28.035825,4841.0,no
+ZA-0318,Highveld Hospital Heliport,heliport,ZA,-26.491786,29.231989,5331.0,no
+ZA-0319,Anglo Coal Highveld Hospital Heliport,balloonport,ZA,-25.917384,29.199981,5193.0,no
+ZA-0320,Grasslands Airfield,small_airport,ZA,-25.828611,28.092778,4559.0,no
+ZA-0321,Black Oystercatcher,small_airport,ZA,-34.631111,19.8275,45.0,no
+ZA-0324,Alkantpan Test Range Airport,small_airport,ZA,-29.933201,22.265741,3530.0,no
+ZA-0326,Farm Grootfontein Airfield,small_airport,ZA,-29.192692,24.739475,3800.0,no
+ZA-0327,Durban International Airport,closed,ZA,-29.969798,30.950257,33.0,no
+ZA-0328,Adelaide Airport,closed,ZA,-32.6831016541,26.2942008972,1955.0,no
+ZA-0329,Barberton Municipal Airfield,closed,ZA,-25.7786006927,31.0174999237,,no
+ZA-0330,Giants Castle Airport,closed,ZA,-29.269699,29.566099,6086.0,no
+ZA-0332,Hermanus Airport,closed,ZA,-34.415276,19.184074,72.0,no
+ZA-0336,Montrose Airport,closed,ZA,-24.625,30.186111,2690.0,no
+ZA-0338,Alkantpan Copper Airport,small_airport,ZA,-29.906401,22.3167,3589.0,no
+ZA-0339,Arnot Power Station Airport,small_airport,ZA,-25.941099,29.810301,5594.0,no
+ZA-0340,Baragwanath Airfield,small_airport,ZA,-26.348697,27.779546,5420.0,no
+ZA-0341,Dunnottar Airfield,small_airport,ZA,-26.3543156175,28.466791153,5241.0,no
+ZA-0342,Gravelotte Mine Airstrip,small_airport,ZA,-23.95812,30.64612,1824.0,no
+ZA-0344,Mica Village Airstrip,small_airport,ZA,-24.15865,30.83891,1486.0,no
+ZA-0345,Garonga Airstrip,small_airport,ZA,-24.09922,30.71658,1575.0,no
+ZA-0346,Askari Airstrip,small_airport,ZA,-24.08148,30.57187,1575.0,no
+ZA-0350,Ingwelala,small_airport,ZA,-24.16212,31.39501,1109.0,no
+ZA-0353,Hoedspruit Civil Airfield,small_airport,ZA,-24.347618,30.946141,,no
+ZA-0355,Atlantic Aerodrome,small_airport,ZA,-33.588163,18.618235,240.0,no
+ZA-0356,False Bay Hospital Heliport,heliport,ZA,-34.13032,18.41469,69.0,no
+ZA-0357,Mediclinic Cape Gate Heliport,heliport,ZA,-33.84831,18.69625,381.0,no
+ZA-0358,Clanwilliam Nootgedacht Airstrip,small_airport,ZA,-32.28296,18.893,1086.0,no
+ZA-0359,Lebanon Citrus Farm Airstrip,small_airport,ZA,-32.26719,18.92893,354.0,no
+ZA-0362,Klippunt Airstrip,small_airport,ZA,-28.57991,21.13157,2661.0,no
+ZA-0363,Karos Airstrip,small_airport,ZA,-28.37984,21.58413,2772.0,no
+ZA-KIG,Koingnaas Airport,small_airport,ZA,-30.187136,17.282706,228.0,no
+ZM-0001,Lilayi Airport,closed,ZM,-15.5122,28.3246,4264.0,no
+ZM-0002,Mumbwa,small_airport,ZM,-15.072745130299998,27.1867847443,,no
+ZM-0003,Luangwa Airport,small_airport,ZM,-15.606715,30.395529,,no
+ZM-0006,Macha Airport,small_airport,ZM,-16.373833,26.800379,,no
+ZM-0007,Kafue Airport,small_airport,ZM,-15.729562,28.093427,,no
+ZM-0009,Chisamba Airport,small_airport,ZM,-14.85601,28.310738,,no
+ZM-0011,Kamilonga Airport,small_airport,ZM,-15.003311,28.08601,,no
+ZM-0012,Liteta Airport,small_airport,ZM,-14.826645,28.023642,,no
+ZM-0013,Chiwala Airport,small_airport,ZM,-14.608313,28.343263,,no
+ZM-0014,Mpongwe Airport,small_airport,ZM,-13.636671,27.758297,,no
+ZM-0015,Karubwe Airport,small_airport,ZM,-15.091233,28.274492,,no
+ZM-0017,Kashikishi Airport,small_airport,ZM,-9.308608,28.752645,,no
+ZM-0019,Kamwe Airport,small_airport,ZM,-15.930906,27.956752,,no
+ZM-0020,Kamwe West Airport,small_airport,ZM,-15.915225,27.931955,,no
+ZM-0021,Lochinvar Airport,small_airport,ZM,-16.009561,27.249314,3280.0,no
+ZM-0022,D181 Airport,closed,ZM,-13.956405,26.311195,,no
+ZM-0023,Lufupa Lodge Airstrip,small_airport,ZM,-14.603896,26.168059,,no
+ZM-0024,Majuaneti Airport,small_airport,ZM,-15.913306,28.861505,,no
+ZM-0025,Katemo Airport,small_airport,ZM,-15.607539,29.806837,,no
+ZM-0027,Mufumbwe Airstrip,small_airport,ZM,-13.088211,25.003993,3763.0,no
+ZM-0028,Loloma Airstrip,small_airport,ZM,-13.400203,24.335572,3626.0,no
+ZM-0029,Charangwe Lower Zambezi Safari Lodge Airport,small_airport,ZM,-15.78044,29.1937,1211.0,no
+ZM-0030,Maunga River Airport,small_airport,ZM,-18.01637,26.74365,1673.0,no
+ZM-0031,Maunga River Lodge Heliport,heliport,ZM,-18.01917,26.74355,1720.0,no
+ZM-0032,Cisera Airport,small_airport,ZM,-16.091733,27.864118,3790.0,no
+ZM-0033,Batoka Gorge North Airport,small_airport,ZM,-17.918404,26.10312,2838.0,no
+ZM-0034,Baobab Plains Airfield,small_airport,ZM,-17.892416,25.871928,2989.0,no
+ZM-0035,Batoka Airport,small_airport,ZM,-17.88415,25.84719,2949.0,no
+ZM-0038,Chitokoloki Airport,small_airport,ZM,-13.83662,23.21172,3494.0,no
+ZM-0039,Chavuma Airport,small_airport,ZM,-13.12071,22.69151,3425.0,no
+ZM-0041,Baobab Camp Heliport,heliport,ZM,-17.89793,25.8674,3025.0,no
+ZM-0042,Maramba River Airport,small_airport,ZM,-17.87528,25.88331,2982.0,no
+ZM-0043,Cedrics Farm Airport,small_airport,ZM,-12.90586,28.25853,3957.0,no
+ZM-0045,Kalumbila Airport,medium_airport,ZM,-12.25358,25.44432,4354.0,no
+ZM-0046,Choma Airport,closed,ZM,-16.783001,27.0,4300.0,no
+ZM-0047,Chama Airstrip,small_airport,ZM,-11.238236,33.160724,2560.0,no
+ZM-0048,Balmoral Airport,small_airport,ZM,-15.54662,28.19442,3967.0,no
+ZW-0001,Matetsi Airport,small_airport,ZW,-18.498899,25.918628,,no
+ZW-0004,Bridge Camp Airstrip,small_airport,ZW,-21.247388,31.908657,,no
+ZW-0005,Boli Airport,small_airport,ZW,-21.532188,31.476691,,no
+ZW-0006,Malipati Airport,small_airport,ZW,-22.063618,31.436257,,no
+ZW-0007,Makado Airport,small_airport,ZW,-21.456959,29.7175,,no
+ZW-0010,Belingwe Airport,small_airport,ZW,-20.522514,29.876149,,no
+ZW-0011,Hwali Airport,small_airport,ZW,-21.679911,29.218657,,no
+ZW-0012,Mwenezi Airport,small_airport,ZW,-21.431546,30.734302,,no
+ZW-0013,Lupane Airport,small_airport,ZW,-18.927645,27.806533,,no
+ZW-0015,Maronga Airport,small_airport,ZW,-16.855435,28.427123,,no
+ZW-0016,Chete Airport,small_airport,ZW,-17.050324,28.001822,,no
+ZW-0017,Lake Kariba Airport,small_airport,ZW,-17.345659,27.635,1755.0,no
+ZW-0019,Manjolo Airport,small_airport,ZW,-17.814685,27.171634,1775.0,no
+ZW-0020,Chigwell Airport,small_airport,ZW,-18.16483,29.965823,,no
+ZW-0021,Hot Springs Airport,small_airport,ZW,-19.653303,32.4248,,no
+ZW-0022,Dorowa Airport,small_airport,ZW,-19.056975,31.775152,,no
+ZW-0024,Chapoto Road Airstrip,small_airport,ZW,-15.749968,30.402576,1310.0,no
+ZW-0025,Kanyemba Airport,small_airport,ZW,-15.665006,30.389806,1308.0,no
+ZW-0026,Mucumbura River Airport,small_airport,ZW,-16.205187,31.681177,,no
+ZW-0027,Mwanja River Airport,small_airport,ZW,-15.64811,29.9871,,no
+ZW-0028,Kuperinengu Airstrip,small_airport,ZW,-15.647438,29.879651,1181.0,no
+ZW-0029,Chikwenya Game Lodge Airstrip,small_airport,ZW,-15.6956,29.576598,1250.0,no
+ZW-0031,Honde Valley Airport,small_airport,ZW,-18.497124,32.853992,,no
+ZW-0032,Chewonde Airport,small_airport,ZW,-17.958974,28.270602,,no
+ZW-0035,Gokwe North Airport,small_airport,ZW,-17.537114,28.330871,,no
+ZW-0038,Chipinge Farm Airstrip,small_airport,ZW,-20.460575,32.203607,,no
+ZW-0040,Kwaraguza Airport,small_airport,ZW,-18.117815,32.841205,,no
+ZW-0041,Mana West Airport,small_airport,ZW,-15.83586,29.174883,1232.0,no
+ZW-0044,Makuti Airstrip,closed,ZW,-16.344021,29.202102,3268.0,no
+ZW-0046,Dandawa Airstrip,small_airport,ZW,-15.956175,29.274619,1370.0,no
+ZW-0048,Chinyike Mine Heliport,heliport,ZW,-18.9259,30.2742,,no
+ZW-0050,Little Vundu Camp Airport,small_airport,ZW,-15.79535,29.19948,1204.0,no
+ZW-0051,Chief Simupas Village Airport,small_airport,ZW,-17.19447,28.07068,1719.0,no
+ZW-0052,Kapoka Airstrip,small_airport,ZW,-17.139068,28.342388,2400.0,no
+ZW-0053,Batoka Gorge South Airport,small_airport,ZW,-17.93221,26.11749,2805.0,no
+ZW-0054,Kazungula Airport,small_airport,ZW,-17.92962,25.77313,3343.0,no
+ZW-0055,Elephant Hills Heliport,heliport,ZW,-17.91199,25.82802,3054.0,no
+ZW-0056,Chikopokopo Heliport,heliport,ZW,-17.96438,25.80993,3012.0,no
+ZW-0057,Masuwe Heliport,heliport,ZW,-17.96588,25.81055,3005.0,no
+ZW-0059,Big Four Heliport,heliport,ZW,-17.91354,25.83235,2986.0,no
+ZW-0060,Bomani Airstrip,small_airport,ZW,-19.0826,27.457538,3347.0,no
+ZW-0061,Mbuhulu Airstrip,closed,ZW,-19.509961,27.408571,3370.0,no
+ZW-0064,Matetsi East Airstrip,small_airport,ZW,-18.37304,26.27076,2638.0,no
+ZW-0065,Matetsi North 1 Airstrip,closed,ZW,-18.33451,26.24529,,no
+ZW-0066,Matetsi North 2 Airstrip,closed,ZW,-18.32959,26.20575,,no
+ZW-0067,Chawato Airfield,small_airport,ZW,-18.51297,26.27256,2855.0,no
+ZW-0068,Camp Selous Airstrip,closed,ZW,-18.69297,27.20127,,no
+ZW-0070,Kumalo Airport (RAF Kumalo),closed,ZW,-20.134541,28.612373,,no
+ZW-0072,Induna Aerodrome,closed,ZW,-20.082609,28.708134,,no
+ZW-0073,Belvedere Airport,closed,ZW,-17.83837,31.015649,,no
